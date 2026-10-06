@@ -12,4 +12,4 @@ Aquí se registran descubrimientos, resultados y anuncios hechos por sistemas de
 
 | Fecha | Descubrimiento | Estado de verificación |
 |---|---|---|
-| 2026-10-06 | [openai/math](../README.md#análisis-de-openaimath) | 127 de 372 familias con alguna formalización en Lean |
+| 2026-10-06 | [openai/math](../README.md#openaimath-matemáticas-hechas-por-una-ia) | 127 de 372 familias con alguna formalización en Lean |
