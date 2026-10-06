@@ -9,6 +9,7 @@ Aquí analizamos descubrimientos hechos por sistemas de inteligencia artificial:
 1. **¿Qué es Lean?** Es la herramienta que comprueba si una demostración es correcta. Léelo primero: [¿Qué es Lean?](docs/que-es-lean.md)
 2. **¿Alguna palabra no te suena?** Mira el [glosario](docs/glosario.md).
 3. **Elige un descubrimiento** de la lista de abajo.
+4. **¿Quieres el panorama completo de la IA?** Este repositorio es parte de [CaminoASI](#caminoasi-el-proyecto-del-que-forma-parte-este-repositorio).
 
 ## Descubrimientos analizados
 
@@ -43,6 +44,7 @@ Aquí analizamos descubrimientos hechos por sistemas de inteligencia artificial:
 2. Leímos su presentación, su resumen de resultados y su catálogo de pruebas en Lean.
 3. Cruzamos cada artículo con ese catálogo para saber cuáles están comprobados por máquina.
 4. Las partes de aplicaciones y de futuro son nuestra interpretación de esos datos.
+5. El análisis y la traducción de los 372 títulos se redactaron con ayuda de IA (Claude). Si ves un error, avísanos.
 
 ## Lo que este análisis no hace
 
@@ -65,16 +67,35 @@ python3 -I scripts/build_catalogue.py /ruta/a/openai-math
 
 ---
 
-## Proyecto relacionado: CaminoASI
+## CaminoASI: el proyecto del que forma parte este repositorio
 
-[**CaminoASI**](https://caminoasi.com/) es una plataforma en español que sigue el avance de la inteligencia artificial en el mundo. Este repositorio complementa esa actividad: aquí se analizan a fondo descubrimientos concretos de la IA, y allí se puede seguir el panorama general.
+[**CaminoASI**](https://caminoasi.com/) es un portal en español sobre todo lo que la inteligencia artificial está cambiando. Su objetivo es que cualquier hispanohablante entienda hacia dónde va la IA: qué ya hace de verdad, qué es solo un anuncio y qué falta todavía.
 
-Según su página principal, ofrece:
+El nombre viene de **ASI**, siglas en inglés de *superinteligencia artificial*: el portal sigue el camino que recorre la IA hacia ella. Es un proyecto independiente, hecho por una sola persona, que no depende de ningún laboratorio ni empresa de IA.
 
-- Noticias de IA de distintas fuentes, traducidas automáticamente al español.
-- Herramientas, investigaciones y robótica.
-- Un ranking de modelos y un ranking de países por capacidad y adopción de IA.
-- Un índice de influencia de la IA por sectores.
-- Una sección de centros de datos.
+### Qué encontrarás
 
-Esa descripción es un resumen de su portada, hecho el 6 de octubre de 2026. El sitio puede haber cambiado desde entonces. Para ver el detalle completo, visita [caminoasi.com](https://caminoasi.com/).
+| Sección | Para qué sirve |
+|---|---|
+| [Noticias](https://caminoasi.com/noticias) | Lo que pasa en la IA cada día, de fuentes reales, clasificado por sector |
+| [Investigaciones](https://caminoasi.com/investigaciones) | Los artículos científicos y anuncios de los laboratorios más relevantes |
+| [Herramientas](https://caminoasi.com/herramientas) y [Robótica](https://caminoasi.com/robotica) | Herramientas de IA y robots, revisados antes de publicarse |
+| [Ranking de modelos](https://caminoasi.com/ranking) | Qué modelos de IA rinden mejor |
+| [Países](https://caminoasi.com/paises) y [Centros de datos](https://caminoasi.com/centros-de-datos) | Quién lidera la IA y dónde se construye su infraestructura |
+| [Calendario ASI](https://caminoasi.com/calendario) | La historia de la humanidad contada desde la invención de la escritura, comparando los hitos del pasado con lo que pasa hoy en la IA |
+| [Ética](https://caminoasi.com/etica) | Una propuesta de principios para la IA y la superinteligencia |
+| [Glosario](https://caminoasi.com/glosario) | Los términos de la IA explicados |
+
+En la portada hay además un **índice de influencia de la IA** de 0 a 10 para 15 sectores, como salud, energía o política. Parte de una estimación anual por sector y la ajusta con las noticias del último mes, sin moverla más de 2 puntos. La fórmula está publicada en el propio portal.
+
+### Cómo encaja este repositorio
+
+CaminoASI muestra el panorama: noticias, rankings y tendencias. Este repositorio baja al detalle: toma un descubrimiento concreto, como `openai/math`, y lo analiza a fondo.
+
+Los dos siguen los mismos criterios:
+
+- Citar siempre la fuente, con fecha y enlace.
+- Separar lo que está comprobado de lo que es estimación.
+- Avisar cuando algo está traducido o redactado con ayuda de IA.
+
+¿Quieres seguir el día a día de la IA en español? Visita **[caminoasi.com](https://caminoasi.com/)**.
