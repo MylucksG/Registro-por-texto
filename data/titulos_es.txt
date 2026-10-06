@@ -1,0 +1,372 @@
+001|Conjetura de racionalidad de Milne
+002|La fórmula completa de Birch–Swinnerton-Dyer con corango de Selmer cero y uno
+003|La hipótesis de quasi-Riemann
+004|El décimo problema de Hilbert sobre ℚ
+005|Irracionalidad de la constante de Catalan
+006|Conjetura de Goldfeld
+007|Chowla de dos puntos y la conjetura de Elliott binaria corregida
+008|La conjetura de Deligne–Drinfeld
+009|Bogomolov–Pop y reconstrucción K-teórica de Milnor
+010|Modularidad de Fontaine–Mazur en el primo 2 y pro-modularidad 2-ádica
+011|La conjetura de Ford–Konyagin–Luca sobre predecesores primos
+012|Mayores factores primos independientes de enteros consecutivos
+013|La conjetura inversa de Goldbach de Ostmann
+014|Langlands geométrico restringido, Ramanujan genérico y parámetros de Arthur
+015|Equidistribución de paquetes de toros en grados primo, cuártico y séxtico
+016|Zilber–Pink en variedades abelianas y la variedad tridimensional de Siegel
+017|El exponente de irracionalidad de π es 2
+018|La conjetura de Margulis–Platonov sobre cuerpos globales
+019|La conjetura de la sección p-ádica
+020|Cuárticas libres de cuadrados y valores de polinomios libres de potencias
+021|Una cota cuadrática para la función de Jacobsthal
+022|La conjetura débil inhomogénea de Duffin–Schaeffer
+023|El primer momento de Patterson para sumas de Gauss cúbicas
+024|Una fórmula asintótica para el número de totientes
+025|La conjetura de las fracciones egipcias cortas de Erdős
+026|Densidad inferior positiva de grandes huecos entre primos
+027|Densidad entera en variedades de caracteres de curvas
+028|La conjetura del foso gaussiano
+029|Conjetura de las raíces primitivas de Artin: infinitud para toda base
+030|Modularidad sobre cuerpos cuadráticos imaginarios
+031|La conjetura de Uchida para homomorfismos de Galois abiertos
+032|La conjetura racional de Hodge para variedades abelianas CM y productos de superficies K3
+033|La conjetura de Iitaka orbifold de Campana y la subaditividad logarítmica
+034|Log abundancia y fibraciones de Iitaka efectivas
+035|Log abundancia de variedades de dimensión tres con dimensión numérica uno en característica p>3
+036|Semiamplitud numérica y modelos mínimos generalizados
+037|La brecha de volumen exacta de puntos dobles ordinarios
+038|La conjetura de libertad de Fujita
+039|La conjetura de Nagata y las constantes de Seshadri máximas
+040|La conjetura de Bloch para superficies complejas
+041|SYZ hiperkähler y bases de espacio proyectivo
+042|Clasificación de Oka para superficies K3 y otras superficies complejas compactas
+043|P=W para espacios de moduli de determinante fijo
+044|La conjetura de Hikita cohomológica equivariante para carcajs
+046|Contraejemplos a la convexidad holomorfa de Shafarevich
+047|Contraejemplos complejos a la cancelación y a las fibraciones afines
+048|Un contraejemplo en característica cero a Lipman–Zariski
+049|Un contraejemplo de coordenadas estables en cuatro variables
+050|Un contraejemplo a la conjetura de positividad de Griffiths
+051|La conjetura de amplitud canónica de Kobayashi
+052|Escisiones del fibrado tangente y recubrimientos universales
+053|Un contraejemplo a la conjetura de completitud original de Pixton
+054|Contraejemplos a la conjetura de racionalidad de Kuznetsov
+055|La conjetura de Gepner de Toda y la estabilidad de volumen grande
+056|Terminación de los programas de modelo mínimo en dimensión cuatro
+057|La conjetura de abelianidad de Campana y las variedades especiales
+058|La conjetura del recubrimiento universal de Kollár–Pardon
+059|Contraejemplos a la conjetura de multiplicidad de Zariski
+060|La conjetura de la Cáscara Esférica Global
+062|La conjetura de LeBrun–Salamon y la clasificación proyectiva de contacto
+063|La conjetura de Mukai generalizada
+064|El problema de la constante μ para singularidades de superficies
+065|Restricciones de Virasoro para intersecciones completas y fibrados proyectivos
+066|Complementos klt acotados para contracciones de Fano
+067|La conjetura de Campana–Peternell en dimensión seis
+068|No anulación anticanónica bajo semipositividad suave
+069|Langlands geométrico cuántico a nivel irracional
+071|La conjetura de dominios circulares de Koebe y la rigidez de dominios circulares
+072|La conjetura de Brennan y un contraejemplo a la predicción de Kraetzer
+073|La conjetura de distancias de Falconer
+074|Kakeya en dimensiones tres y cuatro
+075|La conjetura de convergencia de Fourier L log L
+076|Polinomios de Littlewood reales ultraplanos
+077|Restricción de Fourier para superficies de curvatura positiva
+078|La conjetura de Bochner–Riesz tridimensional
+079|La conjetura de suavizado local de Sogge en dimensión tres
+080|El extremo de Sobolev en el problema de convergencia de Schrödinger de Carleson
+081|El problema de la transformada de Riesz de David–Semmes en codimensión mayor
+082|Cotas maximales y variacionales para la transformada de Hilbert triangular
+083|La conjetura de Stein para transformadas de Hilbert a lo largo de direcciones lipschitzianas
+084|El caso geométrico de la conjetura de similitud de Erdős
+085|Regularidad en el extremo de la función maximal centrada plana
+086|Una cota L³ para la transformada de Hilbert trilineal
+087|Las conjeturas de Mahler y el ancho simpléctico
+088|La conjetura de proyección-volumen de Petty y contraejemplos simpliciales
+089|Embeddings L₁ de distorsión acotada para grafos planares y de anchura arbórea acotada
+090|Optimalidad universal de la red triangular
+091|La conjetura logarítmica de Brunn–Minkowski
+092|El orden óptimo de la densidad de recubrimiento por cuerpos convexos
+093|Desigualdad logarítmica de Sobolev libre de dimensión para medidas log-cóncavas subgaussianas
+094|Reducción de dimensión subpolinómica en L_p
+095|Conos de hiperbolicidad sin levantamientos semidefinidos
+096|La conjetura de la hélice gaussiana
+097|La conjetura euclídea de Steinitz–Bergström
+098|Una respuesta negativa al problema de Lang–Plaut
+099|La distorsión exacta de la distancia de edición en ℓ₁
+100|Un contraejemplo a la cota de Bang para el recubrimiento con cilindros
+101|La conjetura del símplex exacta para constantes isótropas
+102|La Conjetura de Unique Games y los umbrales óptimos de aproximación
+103|Desaleatorización del espacio logarítmico: L=RL=BPL
+104|Algoritmos cuasipolinómicos para juegos de pago medio, estocásticos y de paridad
+105|La conjetura de los juegos 2 a 1 con completitud perfecta
+106|Dureza de colorear grafos tricoloreables
+107|Multiplicación de matrices con exponente como máximo 9/4
+108|Una cota inferior cúbica permanente–determinante
+109|Multiplicación de enteros por debajo de n log n
+110|k-server aleatorizado de orden óptimo en métricas arbitrarias
+111|Desigualdades de profeta para matroides con una muestra frente a un adversario todopoderoso
+112|Más allá del exponente de raíz cuadrada para circuitos de profundidad tres
+113|Conteo aproximado y la conjetura de entropía de emparejamientos perfectos
+114|Conteo aproximado de bases comunes de polimatroides enteros
+115|Muestreo y conteo de tablas de contingencia con márgenes arbitrarios
+116|Prueba de identidad uniforme para fórmulas no conmutativas
+117|Corte más disperso uniforme: dureza y brechas semidefinidas
+118|Brechas no acotadas en empaquetado y la conjetura de redondeo entero modificada
+119|Las conjeturas de Courtade–Kumar y de Hellinger
+120|Emparejamiento exacto en grafos generales en tiempo casi lineal
+121|Aproximación de la distancia de edición en tiempo esperado casi lineal
+122|Cotas inferiores superpolinómicas y reconstrucción cuasipolinómica a partir de trazas de borrado
+124|Planificación en tiempo polinómico en tres máquinas idénticas
+125|El umbral de aproximación para k-medianas métricas
+126|Complejidad semidefinida exponencial del emparejamiento perfecto
+127|La conjetura asintótica de Gotsman–Linial
+128|Una aproximación de factor dos para la supercadena común más corta
+129|Costes de estados exponenciales para autómatas bidireccionales
+130|Transformadas de Fourier por debajo de n log n
+131|Mezcla polinómica de intercambios de grafos con grados prescritos
+132|Un contraejemplo a la conjetura de sensibilidad cuadrática
+133|La complejidad del refinamiento de Weisfeiler–Leman
+134|Altura de estrella generalizada como máximo tres
+135|Complejidad homogénea exacta de profundidad cinco de productos de matrices
+136|La conjetura cuasilineal de PCP para PPAD
+137|Simulación de tiempo de una cinta en espacio de potencia dos quintos
+138|Subset Sum en tiempo O(2^{0,49n})
+139|Consultas subpolinómicas para muestreo log-cóncavo
+140|Cotas inferiores de memoria–muestras para regresión gaussiana sin ruido
+141|La teoría existencial de los reales y las sentencias existenciales–universales en la jerarquía de conteo
+142|Factorización polinómica determinista sobre cuerpos primos
+143|Cotas uniformes de ciclos límite en el decimosexto problema de Hilbert
+144|El problema del espectro de Lebesgue simple de Banach
+145|El problema de mezcla múltiple de Rokhlin
+146|La conjetura de entropía positiva de Sinai para la aplicación estándar
+147|La conjetura de Birkhoff cerca del borde
+148|La fórmula de dimensión para medidas autosimilares en la recta
+149|Permanencia para redes de reacción débilmente reversibles
+150|Mezcla débil de billares triangulares irracionales
+151|Un contraejemplo C¹ a la conjetura de entropía de Shub
+152|Entropía cero no garantiza un modelo suave de volumen positivo
+153|Clasificación aritmética de las convoluciones de Bernoulli
+154|Promedios ergódicos múltiples puntuales para transformaciones mezclantes
+155|Un contraejemplo al teselado periódico en dimensión tres
+156|La conjetura de Borsuk falla en dimensión nueve
+157|Contraejemplos a las conjeturas de Hadwiger y de Colin de Verdière
+158|El plano euclídeo no se puede colorear con cinco colores
+159|La conjetura de la suma de recíprocos de Erdős y cotas cuasipolinómicas de Szemerédi
+160|Números de van der Waerden superexponenciales
+161|Contraejemplos a la conjetura de Sidorenko y a la conjetura de forzamiento
+162|Contraejemplos a las conjeturas de recubrimiento de Ryser y de recubrimiento por árboles de Gyárfás
+164|La conjetura de sumas y productos finitos de Hindman
+165|Números de cruce exactos de grafos completos y bipartitos completos
+166|La conjetura de distancias distintas de Erdős en dimensiones superiores
+167|Distancias ancladas y una mejora potencial para las distancias unitarias planas
+168|Invariancia combinatoria de los polinomios de Kazhdan–Lusztig
+169|La conjetura de e-positividad de Shareshian–Wachs
+170|Exponentes logarítmicos exactos para números de Ramsey fuera de la diagonal
+171|La conjetura de Ramsey del hipercubo
+172|Clasificación de las configuraciones finitas de Ramsey euclidianas
+173|La conjetura del segundo vecindario de Seymour
+174|Construcción determinista de árboles delgados fuertes
+175|Las conjeturas de Talagrand y descomposiciones de grafos en umbrales de esperanza
+176|La segunda conjetura de Kahn–Kalai
+177|Expansores de cofrontera de grado acotado en toda dimensión
+178|Grafos de Ramanujan no bipartitos deterministas en todo grado fijo
+179|La conjetura de Hadamard circulante
+180|La conjetura del ciclo hamiltoniano de Barnette
+181|La conjetura de descomposición en ciclos de Erdős–Gallai
+182|Mejoras potenciales para conjuntos sin diferencias polinómicas
+183|Mejoras potenciales para rectas bisectoras planas y k-conjuntos
+184|Coloración e independencia en grafos con subgrafos prohibidos
+185|Contraejemplos a la intersección de matroides infinitos y al empaquetado/recubrimiento
+186|Las conjeturas de umbral de grafos e hipergrafos de Friedgut–Kalai
+187|Snaky en 21 jugadas de Maker
+188|La constante exacta en la eliminación aleatoria de triángulos
+189|Números de Ramsey exactos ciclo–clique
+190|La eliminación polinómica falla para matrices binarias ordenadas
+191|Una mejora potencial en el problema del triángulo de Heilbronn
+192|Un contraejemplo a la conjetura de Gopalan–Servedio
+193|La conjetura de multiplicidad de intersección de Serre
+194|La conjetura de multiplicidad de Lech
+195|Un contraejemplo a la conjetura del módulo de Cohen–Macaulay pequeño
+196|Un contraejemplo a la conjetura de divisores de cero de Kaplansky
+197|Grupos no sofic y contraejemplos en anillos de grupo
+198|Un contraejemplo a la conjetura de la pequeña dimensión finitística
+199|Contraejemplos a las conjeturas de Auslander–Reiten, Tachikawa y Nakayama
+200|Eisenbud–Green–Harris y lex-plus-potencias en característica cero
+201|Un contraejemplo al problema de los anillos de división de Kurosh
+202|La conjetura de peso de Alperin por bloques
+203|La conjetura de Donovan sobre cuerpos y anillos de valoración discreta
+204|Saturación tensorial para grupos spin pares
+205|La conjetura de Saxl y los cuadrados tensoriales universales
+206|Representación de retículos finitos: contraejemplos e indecidibilidad
+207|Las conjeturas ℓ¹-Bass y de traza de Bass compleja
+208|La conjetura finita de Benson–Etingof–Ostrik
+209|Contraejemplos enteros a la conjetura de Gersten
+210|La conjetura de Foulkes para sextas potencias y la estabilización cuadrática
+211|Geometría, difusión y espectros de mapas planos aleatorios
+212|Sin bigeodésicas y formas límite suaves en la percolación de primer paso plana
+213|Sin clústeres críticos infinitos en grafos cuasi-transitivos
+214|La conjetura de no unicidad de Benjamini–Schramm
+215|Límites continuos masivos y asintótica exacta de la masa para modelos O(n) planos
+216|Correcciones logarítmicas críticas y escalado BKT para el modelo XY plano
+217|La ley de fluctuaciones a baja temperatura de Sherrington–Kirkpatrick
+218|Universalidad conforme para modelos de Ising débilmente interactuantes y desordenados
+219|Universalidad GOE para grafos regulares aleatorios con desorden débil
+220|Leyes cero–uno direccionales y balisticidad en entornos aleatorios
+221|La fórmula de Mézard–Parisi para vidrios de espín diluidos
+222|Energías libres del perceptrón y atasco microscópico
+223|Límites conformes de interfaces de clúster aleatorio en la red cuadrada
+224|Universalidad crítica y casi crítica para la percolación de Voronoi
+225|Límites del campo libre gaussiano para el modelo de seis vértices balanceado
+226|La conjetura CLE₄ del doble dímero en el semiplano
+227|La transición de fase dinámica en el modelo de Sherrington–Kirkpatrick
+228|Transiciones de fase continuas para potenciales radiales de pares
+229|Umbrales exactos de reconstrucción de tres y cuatro estados
+230|Medida de Hausdorff exacta para SLE
+231|El bosque aleatorio libre generador es un factor de IID
+232|Campos gaussianos e interfaces SLE para alturas lipschitzianas
+233|El límite de escala crítico conjunto de Ashkin–Teller
+234|Presión a toda temperatura para vidrios de espín de Ising ortogonalmente invariantes
+235|Umbrales de Random-SAT, varianza exacta y computabilidad
+236|El umbral de factor de IID para estados libres de Ising en árboles
+237|El exponente de diámetro de tres cuartos para caminatas en panal
+238|Mezcla logarítmica óptima de la barajada de Thorp
+239|Tasas de singularidad exactas para matrices de signos simétricas
+240|La conjetura de categoricidad eventual de Shelah
+241|Rigidez de los grados de Turing
+242|Representaciones diofánticas de un solo pliegue
+243|El conteo sin elección no captura el tiempo polinómico
+244|El principio de partición no implica elección
+245|La conjetura β de Barendregt–Geuvers–Klop
+246|La conjetura de Cannon
+247|Un 2-grupo infinito, finitamente presentado y residualmente finito
+248|El grupo F de Thompson no es promediable
+249|Un contraejemplo finitamente generado a Eilenberg–Ganea
+250|La conjetura de Boone–Higman y la finitud superior
+251|Promediabilidad, unitarizabilidad y estabilidad de Ulam
+252|Un grupo hiperbólico sin torsión que no es residualmente finito
+253|Un grupo simple, infinito, finitamente presentado y promediable
+254|Espacios clasificantes y obstrucciones geométricas para grupos de Artin
+255|Rigidez cuasi-isométrica de grupos virtualmente policíclicos
+256|La conjetura de Howie sobre ecuaciones sobre grupos
+257|Un grupo hiperbólico sin acción CAT(0) geométrica
+258|La conjetura de Gersten para grupos de una relación
+259|Un grupo sin precio fijo
+260|Desigualdades de Penrose espaciotemporales y rigidez
+261|Localización y deslocalización en el modelo de Anderson
+262|Desigualdades exactas de Lieb–Thirring unidimensionales
+263|Las conjeturas de ionización y de ionización generalizada
+264|Censura cósmica fuerte cerca de datos de Kerr de dos extremos
+265|La ley del área con brecha en dos dimensiones
+266|Exactamente tres bases mutuamente insesgadas en dimensión seis
+267|Condensación de Bose–Einstein a temperatura positiva y depleción cuántica
+268|La brecha de Haldane de espín uno
+269|La brecha de Laughlin y la estabilidad bajo desorden escalar
+270|Estados ligados de umbral y de energía positiva del modelo BFSS
+271|La ley de Bloch y el orden ferromagnético espontáneo
+272|Entrelazamiento sin clave secreta y la conjetura PPT-cuadrado
+273|La desigualdad de entropía del número de fotones
+274|La conjetura de paridad de Moore para QAC⁰
+275|QMA-dureza de la energía de Coulomb en el continuo
+276|La capacidad clásica de la amortiguación de amplitud generalizada
+277|Repetición de umbral para juegos entrelazados
+278|Fallo de la representación de conjunto de Kohn–Sham
+279|Factorización cuántica exacta sobre un conjunto finito fijo de puertas
+280|Localidad fuerte para álgebras de operadores de vértice unitarias fuertemente racionales
+281|Optimalidad de QAOA para el modelo SK
+282|Mejora de escala a conforme en teoría cuántica de campos de cuatro dimensiones
+283|Síntesis unitaria de error constante en tiempo polinómico a partir de un oráculo booleano
+284|El exponente de consultas aleatorizado–cuántico óptimo
+285|Contraejemplos a Baum–Connes y a Kadison–Kaplansky
+286|Rigidez aritmética de las álgebras de von Neumann de retículos
+287|Todos los factores de grupo libre no abelianos son isomorfos
+288|La conjetura de similitud de Kadison
+289|La conjetura fuerte de Kadison–Kastler
+290|La conjetura del bicentralizador de Connes y bicentralizadores relativos
+291|Toms–Winter y la estabilidad equivariante de Jiang–Su
+292|Un contraejemplo al problema de inmersión de ultrapotencia de norma de Kirchberg
+293|Un contraejemplo al problema del subespacio hiperinvariante
+294|Un contraejemplo a la conjetura de cuasitrazas de Kaplansky
+295|La conjetura de cohomología de Kadison–Ringrose
+296|El problema del generador para factores finitos
+297|Un contraejemplo en ZFC al problema de Naimark
+298|Un contraejemplo a la conjetura de igualdad de entropía libre de Voiculescu
+299|El criterio de caracteres de Kirchberg–Rørdam
+300|La conjetura de paving fuerte-operador cuadrático de Popa–Vaes
+301|Clasificación por conos de traza tras la estabilización de Razak–Jacelon
+302|La fórmula de Phillips–Toms para acciones enteras mínimas
+303|De la pura infinitud ordinaria a la fuerte
+304|La conjetura de Hilbert–Smith en toda dimensión
+305|Contraejemplos al encaje de discos y a la conjetura de variedades de Wall
+306|La conjetura de cirugía puramente cosmética para nudos en S³
+307|Fallo de la inyectividad racional del ensamblaje grueso máximo
+308|Complejos de Smith–Toda a toda altura con primos variables
+309|El problema del invariante de Kervaire en el primo tres
+310|La conjetura de Quillen en homología racional
+311|La conjetura del ideal invariante de Chai
+312|La hipótesis de homotopía de Grothendieck
+313|Generación finita para la esfera K(n)-local
+314|El problema cromático del punto fijo de Smith para p-grupos finitos
+315|La conjetura de Singer en dimensión cuatro
+316|La conjetura de Curtis
+317|Estructuras de modelo de Thomason en toda dimensión superior estricta
+318|División cromática: contraejemplos y filtraciones
+319|Contraejemplos a la conjetura de Hahn–Wilson en altura dos
+320|Un contraejemplo cuatridimensional a la rigidez de Borel
+321|Un contraejemplo a la conjetura D(2) finita de Wall
+322|El problema de la isometría de esferas de Tingley
+323|Independencia relativa del problema del cociente separable
+324|Equivalencia lipschitziana sin isomorfismo lineal
+325|La conjetura de Crouzeix completa
+326|La conjetura cotipo–cotipo bajo la propiedad de aproximación
+327|El tipo de Markov caracteriza la superreflexividad
+328|Puntos fijos de aplicaciones no expansivas en espacios de Banach reflexivos
+329|Un contraejemplo a la conjetura de dualidad de entropía métrica de Pietsch
+330|Una respuesta negativa a la pregunta de aproximación Lipschitz-libre de Kalton
+331|Convexidad uniforme de punto medio asintótica sin renormamiento asintóticamente uniformemente convexo
+332|Cotipo de Markov métrico dos para ℓ₁
+333|Inmersiones isométricas suaves de superficies en ℝ⁴
+334|Una métrica de superficie suave sin inmersión local en ℝ³
+335|La desigualdad integral de curvatura escalar de Gromov
+336|Curvatura escalar espectral y anchura de codimensión dos
+337|Isoperimetría de Cartan–Hadamard y rellenos CAT(0)
+338|La conjetura de uniformización de Yau
+339|La conjetura de rigidez de entropía de Katok
+340|Un contraejemplo a la conjetura lagrangiana cercana
+341|La conjetura de deformación hipersimpléctica de Donaldson
+342|La conjetura de Donaldson de dominado a compatible
+343|Criterios exactos de empaquetado de bolas simplécticas en dimensiones superiores
+344|La conjetura métrica de Blaschke
+345|Infinitas geodésicas cerradas en esferas y variedades de dimensión tres
+346|Cotas exactas del conjunto singular para varifolds enteros estacionarios
+347|Contraejemplos a formas fuertes de la conjetura del punto fijo de Arnold
+348|Variedades de Einstein de dimensión cuatro de curvatura no negativa y una brecha topológica
+349|La conjetura de volumen mínimo de Solomon–Yau
+350|La conjetura nodal de Yau: superficies y contraejemplos
+351|La curvatura escalar detecta singularidades del flujo de Ricci en dimensión cuatro
+352|Singularidad en tiempo finito del flujo de Calabi
+353|El umbral de dimensión exacto para la rigidez afín de Bernstein
+354|Regiones isoperimétricas en el 3-toro cúbico
+355|Flujos tangentes únicos en la primera singularidad de superficie
+356|La caracterización de Gigli de la curvatura de Alexandrov
+357|Coordenadas bi-Lipschitz en todo punto regular RCD
+358|Una 3-variedad sin puntos conjugados y sin métrica de curvatura no positiva
+359|Curvatura de Kähler negativa sin coordenadas holomorfas acotadas
+360|La conjetura de convexidad de Villani y el transporte óptimo regular
+361|Contraejemplos a la cota de dimensión armónica de Yau
+362|Suavidad global para Vlasov–Maxwell relativista
+363|No unicidad de Boltzmann con conservación local exacta
+364|Límites cinéticos y fluctuaciones durante la vida útil de Boltzmann
+365|Recuperación conjunta de la métrica y la conexión a partir de un parche de frontera
+366|La conjetura de regularidad de Mumford–Shah plana
+367|La dimensión crítica del problema de Bernoulli de una fase
+368|El problema de aproximación de Ball–Evans tridimensional
+369|La conjetura de los puntos calientes para dominios planos simplemente conexos
+370|Las conjeturas subcríticas de Lane–Emden y Hénon–Lane–Emden
+371|Explosión estable para una ecuación de Schrödinger desenfocante
+372|Unicidad global en elasticidad isótropa suave
+373|No alcance en el transporte de Coulomb de tres marginales
+374|Estabilidad exacta de un tercio de los mapas de transporte óptimo
+375|La conjetura de De Giorgi en dimensión ocho
+376|Computación universal en flujos de Navier–Stokes forzados
+377|Regularidad interior C^{1,α} para funciones infinito-armónicas

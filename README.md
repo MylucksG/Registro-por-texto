@@ -11,6 +11,20 @@ Este repositorio reúne descubrimientos hechos por sistemas de inteligencia arti
 - ¿Primera vez que oyes hablar de Lean? Empieza por [¿Qué es Lean?](docs/que-es-lean.md), una explicación sencilla para quien no sabe del tema.
 - Para añadir un nuevo descubrimiento, mira [`discoveries/`](discoveries/README.md).
 
+## Proyecto relacionado: Camino a SI
+
+[**Camino a SI**](https://caminoasi.com/) es una plataforma en español que sigue el avance de la inteligencia artificial en el mundo. Este repositorio complementa esa actividad: aquí se analizan a fondo descubrimientos concretos de la IA, y allí se puede seguir el panorama general.
+
+Según su página principal, ofrece:
+
+- Noticias de IA de distintas fuentes, traducidas automáticamente al español.
+- Herramientas, investigaciones y robótica.
+- Un ranking de modelos y un ranking de países por capacidad y adopción de IA.
+- Un índice de influencia de la IA por sectores.
+- Una sección de centros de datos.
+
+Esa descripción es un resumen de su portada, hecho el 6 de octubre de 2026. El sitio puede haber cambiado desde entonces. Para ver el detalle completo, visita [caminoasi.com](https://caminoasi.com/).
+
 ## Análisis disponibles
 
 | Descubrimiento | Resumen |
@@ -30,7 +44,8 @@ Este repositorio también contiene un análisis independiente de [openai/math](h
 - [`analysis/overview.md`](analysis/overview.md): panorama por disciplina y qué resultados importan más.
 - [`analysis/applications.md`](analysis/applications.md): qué se puede aplicar, cómo y en qué plazo.
 - [`analysis/future.md`](analysis/future.md): hacia dónde apunta, qué lo impulsa y qué lo frena.
-- [`data/catalogue.json`](data/catalogue.json): el catálogo completo en formato máquina.
+- [`data/catalogue.json`](data/catalogue.json): el catálogo completo en formato máquina. Los resúmenes (`summary`) están en inglés tal como los publicó OpenAI; los títulos tienen versión en español (`title_es`).
+- [`data/titulos_es.txt`](data/titulos_es.txt): los 372 títulos traducidos. Si encuentras una traducción mejorable, corrígela ahí y vuelve a ejecutar el script.
 - [`scripts/build_catalogue.py`](scripts/build_catalogue.py): regenera `CONTENTS.md` y `data/catalogue.json` desde un clon de `openai/math`.
 
 ## Qué es el material analizado

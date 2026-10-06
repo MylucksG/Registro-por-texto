@@ -2,7 +2,7 @@
 """Cruza el catalogo de familias de openai/math con su catalogo de formalizaciones Lean.
 
 Uso: python3 -I scripts/build_catalogue.py RUTA_AL_CLON_DE_openai_math
-Genera data/catalogue.json y CONTENTS.md.
+Genera data/catalogue.json y CONTENTS.md. Los titulos en espanol salen de data/titulos_es.txt.
 """
 import json, re, sys
 from collections import OrderedDict
@@ -71,6 +71,32 @@ for f in families:
     f["n_papers"], f["n_lean"] = n, k
     f["lean"] = "completo" if n and k == n else "parcial" if k else "no visible"
 
+# 2b. Titulos y disciplinas en espanol (data/titulos_es.txt: "id|titulo")
+DISCIPLINAS_ES = {
+    "Number theory": "Teoría de números",
+    "Algebraic and complex geometry": "Geometría algebraica y compleja",
+    "Real and complex analysis": "Análisis real y complejo",
+    "Convex and metric geometry": "Geometría convexa y métrica",
+    "Theoretical computer science": "Informática teórica",
+    "Dynamical systems and ergodic theory": "Sistemas dinámicos y teoría ergódica",
+    "Combinatorics": "Combinatoria",
+    "Algebra": "Álgebra",
+    "Probability and statistical mechanics": "Probabilidad y mecánica estadística",
+    "Mathematical logic": "Lógica matemática",
+    "Group theory": "Teoría de grupos",
+    "Mathematical physics": "Física matemática",
+    "Operator algebras": "Álgebras de operadores",
+    "Topology": "Topología",
+    "Functional analysis": "Análisis funcional",
+    "Differential geometry": "Geometría diferencial",
+    "Partial differential equations": "Ecuaciones en derivadas parciales",
+}
+titulos_es = dict(
+    l.split("|", 1) for l in (out / "data" / "titulos_es.txt").read_text(encoding="utf-8").splitlines() if l)
+for f in families:
+    f["title_es"] = titulos_es[f["id"]]
+    f["discipline_es"] = DISCIPLINAS_ES[f["discipline"]]
+
 (out / "data").mkdir(exist_ok=True)
 (out / "data" / "catalogue.json").write_text(
     json.dumps(families, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -96,14 +122,15 @@ lines = [
 ]
 by = OrderedDict()
 for f in families:
-    by.setdefault(f["discipline"], []).append(f)
+    by.setdefault(f["discipline_es"], []).append(f)
 for d, fs in by.items():
     n_ok = sum(x["lean"] != "no visible" for x in fs)
     lines += [f"## {d}", "", f"{len(fs)} familias, {n_ok} con alguna formalización.", "",
-              "| ID | Familia | Manuscritos | Lean |", "|---|---|---|---|"]
+              "| ID | Familia | Título original | Manuscritos | Lean |", "|---|---|---|---|---|"]
     for x in fs:
-        t = x["title"].replace("|", "\\|")
-        lines.append(f"| {x['id']} | {t} | {x['n_papers']} | {badge[x['lean']]} |")
+        t = x["title_es"].replace("|", "\\|")
+        o = x["title"].replace("|", "\\|")
+        lines.append(f"| {x['id']} | {t} | {o} | {x['n_papers']} | {badge[x['lean']]} |")
     lines.append("")
 (out / "CONTENTS.md").write_text("\n".join(lines), encoding="utf-8")
 

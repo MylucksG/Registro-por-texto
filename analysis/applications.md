@@ -10,7 +10,7 @@ Ninguno de estos resultados es un producto. Son teoremas. El camino a un uso rea
 | Saber dónde dejar de optimizar | 102 | Corto | Revisar qué problemas de optimización propios tienen garantía óptima |
 | Árboles delgados deterministas | 174 | 1 a 2 años | Implementar en Python con `networkx` y comparar con heurísticas actuales |
 | Decisiones online con una muestra | 111 | 1 a 2 años | Implementar la regla de umbral y simularla con datos históricos |
-| Embeddings L1 de grafos planares | 089 | 1 a 2 años | Probar el embedding sobre una red vial y medir la distorsión |
+| Inmersiones L1 de grafos planares | 089 | 1 a 2 años | Probar la inmersión sobre una red vial y medir la distorsión |
 | Cotas de primos | 003 | 5 años o más | Dejar que lo integren los especialistas en teoría de números |
 | Curvas elípticas | 002 | 5 años o más | Esperar la revisión externa antes de apoyarse en el resultado |
 | Plasmas y fusión | 362 | 5 años o más | Dejar que lo integren los grupos de simulación |
@@ -42,8 +42,8 @@ Los tres comparten el mismo camino:
 3. Medirlo contra lo que se usa hoy y decidir si compensa.
 
 - **174, árboles delgados.** Sirve para diseño de redes y aproximaciones del viajante asimétrico. La parte algorítmica (el paper de construcción en tiempo polinomial) no tiene Lean visible, solo la conjetura de existencia, así que conviene verificar el algoritmo con tests propios.
-- **111, prophet inequalities con una muestra.** Sirve para subastas y asignación cuando se decide sin conocer el futuro.
-- **089, embeddings L1.** Sirve para aproximar distancias en mapas y redes.
+- **111, desigualdades de profeta con una muestra.** Sirve para subastas y asignación cuando se decide sin conocer el futuro.
+- **089, inmersiones L1.** Sirve para aproximar distancias en mapas y redes.
 
 El riesgo en los tres es que una cota teórica buena no siempre se traduce en mejor rendimiento práctico.
 
