@@ -61,9 +61,9 @@ python3 -I scripts/build_catalogue.py /ruta/a/openai-math
 
 ---
 
-## Proyecto relacionado: Camino a SI
+## Proyecto relacionado: CaminoASI
 
-[**Camino a SI**](https://caminoasi.com/) es una plataforma en español que sigue el avance de la inteligencia artificial en el mundo. Este repositorio complementa esa actividad: aquí se analizan a fondo descubrimientos concretos de la IA, y allí se puede seguir el panorama general.
+[**CaminoASI**](https://caminoasi.com/) es una plataforma en español que sigue el avance de la inteligencia artificial en el mundo. Este repositorio complementa esa actividad: aquí se analizan a fondo descubrimientos concretos de la IA, y allí se puede seguir el panorama general.
 
 Según su página principal, ofrece:
 
