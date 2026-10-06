@@ -11,20 +11,6 @@ Este repositorio reúne descubrimientos hechos por sistemas de inteligencia arti
 - ¿Primera vez que oyes hablar de Lean? Empieza por [¿Qué es Lean?](docs/que-es-lean.md), una explicación sencilla para quien no sabe del tema.
 - Para añadir un nuevo descubrimiento, mira [`discoveries/`](discoveries/README.md).
 
-## Proyecto relacionado: Camino a SI
-
-[**Camino a SI**](https://caminoasi.com/) es una plataforma en español que sigue el avance de la inteligencia artificial en el mundo. Este repositorio complementa esa actividad: aquí se analizan a fondo descubrimientos concretos de la IA, y allí se puede seguir el panorama general.
-
-Según su página principal, ofrece:
-
-- Noticias de IA de distintas fuentes, traducidas automáticamente al español.
-- Herramientas, investigaciones y robótica.
-- Un ranking de modelos y un ranking de países por capacidad y adopción de IA.
-- Un índice de influencia de la IA por sectores.
-- Una sección de centros de datos.
-
-Esa descripción es un resumen de su portada, hecho el 6 de octubre de 2026. El sitio puede haber cambiado desde entonces. Para ver el detalle completo, visita [caminoasi.com](https://caminoasi.com/).
-
 ## Análisis disponibles
 
 | Descubrimiento | Resumen |
@@ -72,3 +58,19 @@ Según el README de `openai/math`, el catálogo tiene 722 manuscritos en 372 fam
 git clone --depth 1 https://github.com/openai/math /ruta/a/openai-math
 python3 -I scripts/build_catalogue.py /ruta/a/openai-math
 ```
+
+---
+
+## Proyecto relacionado: Camino a SI
+
+[**Camino a SI**](https://caminoasi.com/) es una plataforma en español que sigue el avance de la inteligencia artificial en el mundo. Este repositorio complementa esa actividad: aquí se analizan a fondo descubrimientos concretos de la IA, y allí se puede seguir el panorama general.
+
+Según su página principal, ofrece:
+
+- Noticias de IA de distintas fuentes, traducidas automáticamente al español.
+- Herramientas, investigaciones y robótica.
+- Un ranking de modelos y un ranking de países por capacidad y adopción de IA.
+- Un índice de influencia de la IA por sectores.
+- Una sección de centros de datos.
+
+Esa descripción es un resumen de su portada, hecho el 6 de octubre de 2026. El sitio puede haber cambiado desde entonces. Para ver el detalle completo, visita [caminoasi.com](https://caminoasi.com/).
