@@ -1,5 +1,7 @@
 # Hacia dónde apunta
 
+**En pocas palabras:** la IA ya puede producir matemáticas de nivel de investigación. El reto pasa a ser comprobar y entender lo que produce, y ahí Lean se vuelve clave.
+
 Esta sección es interpretación mía, no contenido del repositorio original.
 
 ## Tres etapas
@@ -26,8 +28,8 @@ Esta sección es interpretación mía, no contenido del repositorio original.
 
 1. Cuántas de las 245 familias sin Lean visible reciben formalización en las próximas versiones.
 2. Si aparecen correcciones o retiradas en el historial del repositorio original.
-3. Si matemáticos externos reproducen los resultados con más impacto: 102, 003 y 002.
-4. Si surgen implementaciones abiertas de 174, 111 y 089.
+3. Si matemáticos externos confirman los resultados con más impacto: 107, 102, 003, 002 y 138.
+4. Si surgen implementaciones abiertas de 120, 142, 174, 111 y 089.
 
 ## Una inferencia sobre los modelos
 

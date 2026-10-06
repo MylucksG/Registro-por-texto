@@ -1,5 +1,7 @@
 # Qué se puede aplicar y cómo
 
+**En pocas palabras:** casi nada se puede usar mañana. Son descubrimientos teóricos. Algunos algoritmos podrían llegar a programas reales en uno o dos años, si alguien los implementa y resultan rápidos en la práctica.
+
 Ninguno de estos resultados es un producto. Son teoremas. El camino a un uso real es leer el paper, implementar y medir. Los plazos son estimaciones mías, basadas en lo que suele tardar un teorema en llegar a una aplicación. No se leyeron los papers completos, así que el uso descrito es el típico de cada tipo de resultado.
 
 ## Resumen
@@ -8,6 +10,9 @@ Ninguno de estos resultados es un producto. Son teoremas. El camino a un uso rea
 |---|---|---|---|
 | Flujo "IA propone, Lean verifica" | carpeta `lean/` | Corto | Replicar el flujo de Comparator con un resultado propio y pequeño |
 | Saber dónde dejar de optimizar | 102 | Corto | Revisar qué problemas de optimización propios tienen garantía óptima |
+| Emparejamiento casi lineal | 120 | 1 a 2 años | Implementarlo y compararlo con los algoritmos de asignación actuales |
+| Factorizar polinomios sin azar | 142 | 1 a 2 años | Compararlo con lo que usan los programas de cálculo simbólico |
+| Multiplicar matrices | 107 | Probablemente nunca en la práctica | Ninguno: es un resultado teórico, ver abajo |
 | Árboles delgados deterministas | 174 | 1 a 2 años | Implementar en Python con `networkx` y comparar con heurísticas actuales |
 | Decisiones online con una muestra | 111 | 1 a 2 años | Implementar la regla de umbral y simularla con datos históricos |
 | Inmersiones L1 de grafos planares | 089 | 1 a 2 años | Probar la inmersión sobre una red vial y medir la distorsión |
@@ -47,7 +52,13 @@ Los tres comparten el mismo camino:
 
 El riesgo en los tres es que una cota teórica buena no siempre se traduce en mejor rendimiento práctico.
 
-## 4. Efecto indirecto (5 años o más)
+## 4. Multiplicar matrices (107): importante, pero no acelera nada
+
+Es de los resultados más sólidos de la colección, porque está comprobado al completo con Lean. Baja el exponente de la multiplicación de matrices de 2,371 a 2,25.
+
+Aun así, no hará más rápidas las tarjetas gráficas ni la IA. Desde el método de Strassen de 1969, que sí se usa, los récords de este tipo han sido algoritmos galácticos: solo ganan con matrices de un tamaño que nunca se usa. Su valor es teórico, porque muestra que la operación es más barata de lo que se creía.
+
+## 5. Efecto indirecto (5 años o más)
 
 - **003, zeta.** Cotas mejores para el conteo de primos. Lo usan matemáticos.
 - **002, Birch–Swinnerton-Dyer.** Sin Lean visible, así que antes de apoyarse en él hay que esperar revisión externa.
@@ -55,4 +66,6 @@ El riesgo en los tres es que una cota teórica buena no siempre se traduce en me
 
 ## Lo que no hay que esperar
 
-Estos resultados no rompen RSA, no resuelven P vs NP y no aportan nada directo a la mejora de modelos de lenguaje.
+- No rompen RSA. El resultado sobre factorizar números (279) necesita un ordenador cuántico que no existe, y el de factorizar polinomios (142) es otro problema distinto.
+- No resuelven P vs NP. Subset Sum (138) se resuelve más rápido, pero sigue necesitando un tiempo que crece de forma exponencial.
+- No mejoran directamente los modelos de IA, ni siquiera el resultado sobre matrices (107), por lo explicado arriba.
