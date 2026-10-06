@@ -1,6 +1,6 @@
 # Registro-por-texto
 
-Usando Jev tienes tus registros.
+Descubrimientos de la IA.
 
 ---
 
