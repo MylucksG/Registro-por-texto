@@ -4,12 +4,28 @@ Usando Jev tienes tus registros.
 
 ---
 
+# Descubrimientos de la IA
+
+Este repositorio reúne descubrimientos hechos por sistemas de inteligencia artificial, con un análisis independiente de cada uno: qué afirman, cuánto se puede confiar en ellos, qué se puede aplicar y hacia dónde apunta.
+
+- ¿Primera vez que oyes hablar de Lean? Empieza por [¿Qué es Lean?](docs/que-es-lean.md), una explicación sencilla para quien no sabe del tema.
+- Para añadir un nuevo descubrimiento, mira [`discoveries/`](discoveries/README.md).
+
+## Análisis disponibles
+
+| Descubrimiento | Resumen |
+|---|---|
+| [openai/math](#análisis-de-openaimath) | 722 manuscritos de matemáticas producidos por un modelo de OpenAI, cruzados con su verificación en Lean |
+
+---
+
 # Análisis de `openai/math`
 
 Este repositorio también contiene un análisis independiente de [openai/math](https://github.com/openai/math), una colección de manuscritos matemáticos y pruebas formales producidos por un modelo interno de OpenAI. Sigue la misma estructura que el repositorio original, para que se pueda leer en paralelo.
 
 ## Cómo navegar
 
+- [`docs/que-es-lean.md`](docs/que-es-lean.md): qué es Lean, explicado sin tecnicismos.
 - [`CONTENTS.md`](CONTENTS.md): las 372 familias de resultados, con su disciplina y su estado de verificación en Lean.
 - [`analysis/overview.md`](analysis/overview.md): panorama por disciplina y qué resultados importan más.
 - [`analysis/applications.md`](analysis/applications.md): qué se puede aplicar, cómo y en qué plazo.
