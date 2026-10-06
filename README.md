@@ -30,7 +30,8 @@ Este repositorio también contiene un análisis independiente de [openai/math](h
 - [`analysis/overview.md`](analysis/overview.md): panorama por disciplina y qué resultados importan más.
 - [`analysis/applications.md`](analysis/applications.md): qué se puede aplicar, cómo y en qué plazo.
 - [`analysis/future.md`](analysis/future.md): hacia dónde apunta, qué lo impulsa y qué lo frena.
-- [`data/catalogue.json`](data/catalogue.json): el catálogo completo en formato máquina.
+- [`data/catalogue.json`](data/catalogue.json): el catálogo completo en formato máquina. Los resúmenes (`summary`) están en inglés tal como los publicó OpenAI; los títulos tienen versión en español (`title_es`).
+- [`data/titulos_es.txt`](data/titulos_es.txt): los 372 títulos traducidos. Si encuentras una traducción mejorable, corrígela ahí y vuelve a ejecutar el script.
 - [`scripts/build_catalogue.py`](scripts/build_catalogue.py): regenera `CONTENTS.md` y `data/catalogue.json` desde un clon de `openai/math`.
 
 ## Qué es el material analizado

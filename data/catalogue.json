@@ -12,7 +12,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Conjetura de racionalidad de Milne",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "002",
@@ -31,7 +33,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La fórmula completa de Birch–Swinnerton-Dyer con corango de Selmer cero y uno",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "003",
@@ -50,7 +54,9 @@
   ],
   "n_papers": 3,
   "n_lean": 2,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La hipótesis de quasi-Riemann",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "004",
@@ -67,7 +73,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El décimo problema de Hilbert sobre ℚ",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "005",
@@ -82,7 +90,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Irracionalidad de la constante de Catalan",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "006",
@@ -99,7 +109,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Conjetura de Goldfeld",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "007",
@@ -114,7 +126,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Chowla de dos puntos y la conjetura de Elliott binaria corregida",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "008",
@@ -129,7 +143,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de Deligne–Drinfeld",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "009",
@@ -148,7 +164,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Bogomolov–Pop y reconstrucción K-teórica de Milnor",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "010",
@@ -167,7 +185,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Modularidad de Fontaine–Mazur en el primo 2 y pro-modularidad 2-ádica",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "011",
@@ -186,7 +206,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Ford–Konyagin–Luca sobre predecesores primos",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "012",
@@ -201,7 +223,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Mayores factores primos independientes de enteros consecutivos",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "013",
@@ -216,7 +240,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura inversa de Goldbach de Ostmann",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "014",
@@ -245,7 +271,9 @@
   ],
   "n_papers": 8,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Langlands geométrico restringido, Ramanujan genérico y parámetros de Arthur",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "015",
@@ -264,7 +292,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Equidistribución de paquetes de toros en grados primo, cuártico y séxtico",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "016",
@@ -285,7 +315,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Zilber–Pink en variedades abelianas y la variedad tridimensional de Siegel",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "017",
@@ -300,7 +332,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El exponente de irracionalidad de π es 2",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "018",
@@ -317,7 +351,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Margulis–Platonov sobre cuerpos globales",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "019",
@@ -334,7 +370,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de la sección p-ádica",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "020",
@@ -349,7 +387,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Cuárticas libres de cuadrados y valores de polinomios libres de potencias",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "021",
@@ -364,7 +404,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Una cota cuadrática para la función de Jacobsthal",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "022",
@@ -379,7 +421,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura débil inhomogénea de Duffin–Schaeffer",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "023",
@@ -394,7 +438,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El primer momento de Patterson para sumas de Gauss cúbicas",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "024",
@@ -409,7 +455,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Una fórmula asintótica para el número de totientes",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "025",
@@ -424,7 +472,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de las fracciones egipcias cortas de Erdős",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "026",
@@ -439,7 +489,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Densidad inferior positiva de grandes huecos entre primos",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "027",
@@ -454,7 +506,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Densidad entera en variedades de caracteres de curvas",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "028",
@@ -469,7 +523,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura del foso gaussiano",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "029",
@@ -486,7 +542,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Conjetura de las raíces primitivas de Artin: infinitud para toda base",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "030",
@@ -501,7 +559,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Modularidad sobre cuerpos cuadráticos imaginarios",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "031",
@@ -516,7 +576,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Uchida para homomorfismos de Galois abiertos",
+  "discipline_es": "Teoría de números"
  },
  {
   "id": "032",
@@ -545,7 +607,9 @@
   ],
   "n_papers": 8,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura racional de Hodge para variedades abelianas CM y productos de superficies K3",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "033",
@@ -568,7 +632,9 @@
   ],
   "n_papers": 5,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Iitaka orbifold de Campana y la subaditividad logarítmica",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "034",
@@ -609,7 +675,9 @@
   ],
   "n_papers": 14,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Log abundancia y fibraciones de Iitaka efectivas",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "035",
@@ -626,7 +694,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Log abundancia de variedades de dimensión tres con dimensión numérica uno en característica p>3",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "036",
@@ -647,7 +717,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Semiamplitud numérica y modelos mínimos generalizados",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "037",
@@ -664,7 +736,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La brecha de volumen exacta de puntos dobles ordinarios",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "038",
@@ -679,7 +753,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de libertad de Fujita",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "039",
@@ -700,7 +776,9 @@
   ],
   "n_papers": 4,
   "n_lean": 2,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La conjetura de Nagata y las constantes de Seshadri máximas",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "040",
@@ -715,7 +793,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Bloch para superficies complejas",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "041",
@@ -732,7 +812,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "SYZ hiperkähler y bases de espacio proyectivo",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "042",
@@ -747,7 +829,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Clasificación de Oka para superficies K3 y otras superficies complejas compactas",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "043",
@@ -762,7 +846,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "P=W para espacios de moduli de determinante fijo",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "044",
@@ -777,7 +863,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Hikita cohomológica equivariante para carcajs",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "046",
@@ -794,7 +882,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos a la convexidad holomorfa de Shafarevich",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "047",
@@ -809,7 +899,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Contraejemplos complejos a la cancelación y a las fibraciones afines",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "048",
@@ -824,7 +916,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo en característica cero a Lipman–Zariski",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "049",
@@ -841,7 +935,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Un contraejemplo de coordenadas estables en cuatro variables",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "050",
@@ -856,7 +952,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un contraejemplo a la conjetura de positividad de Griffiths",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "051",
@@ -871,7 +969,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de amplitud canónica de Kobayashi",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "052",
@@ -888,7 +988,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Escisiones del fibrado tangente y recubrimientos universales",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "053",
@@ -903,7 +1005,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo a la conjetura de completitud original de Pixton",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "054",
@@ -918,7 +1022,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos a la conjetura de racionalidad de Kuznetsov",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "055",
@@ -935,7 +1041,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Gepner de Toda y la estabilidad de volumen grande",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "056",
@@ -958,7 +1066,9 @@
   ],
   "n_papers": 5,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Terminación de los programas de modelo mínimo en dimensión cuatro",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "057",
@@ -977,7 +1087,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de abelianidad de Campana y las variedades especiales",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "058",
@@ -994,7 +1106,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La conjetura del recubrimiento universal de Kollár–Pardon",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "059",
@@ -1011,7 +1125,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos a la conjetura de multiplicidad de Zariski",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "060",
@@ -1026,7 +1142,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de la Cáscara Esférica Global",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "062",
@@ -1041,7 +1159,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de LeBrun–Salamon y la clasificación proyectiva de contacto",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "063",
@@ -1056,7 +1176,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Mukai generalizada",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "064",
@@ -1071,7 +1193,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El problema de la constante μ para singularidades de superficies",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "065",
@@ -1088,7 +1212,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Restricciones de Virasoro para intersecciones completas y fibrados proyectivos",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "066",
@@ -1105,7 +1231,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Complementos klt acotados para contracciones de Fano",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "067",
@@ -1120,7 +1248,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Campana–Peternell en dimensión seis",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "068",
@@ -1147,7 +1277,9 @@
   ],
   "n_papers": 7,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "No anulación anticanónica bajo semipositividad suave",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "069",
@@ -1162,7 +1294,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Langlands geométrico cuántico a nivel irracional",
+  "discipline_es": "Geometría algebraica y compleja"
  },
  {
   "id": "071",
@@ -1179,7 +1313,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de dominios circulares de Koebe y la rigidez de dominios circulares",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "072",
@@ -1196,7 +1332,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de Brennan y un contraejemplo a la predicción de Kraetzer",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "073",
@@ -1211,7 +1349,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de distancias de Falconer",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "074",
@@ -1228,7 +1368,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Kakeya en dimensiones tres y cuatro",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "075",
@@ -1243,7 +1385,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de convergencia de Fourier L log L",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "076",
@@ -1262,7 +1406,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Polinomios de Littlewood reales ultraplanos",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "077",
@@ -1279,7 +1425,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Restricción de Fourier para superficies de curvatura positiva",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "078",
@@ -1294,7 +1442,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Bochner–Riesz tridimensional",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "079",
@@ -1309,7 +1459,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de suavizado local de Sogge en dimensión tres",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "080",
@@ -1326,7 +1478,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El extremo de Sobolev en el problema de convergencia de Schrödinger de Carleson",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "081",
@@ -1341,7 +1495,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El problema de la transformada de Riesz de David–Semmes en codimensión mayor",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "082",
@@ -1360,7 +1516,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Cotas maximales y variacionales para la transformada de Hilbert triangular",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "083",
@@ -1375,7 +1533,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Stein para transformadas de Hilbert a lo largo de direcciones lipschitzianas",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "084",
@@ -1392,7 +1552,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El caso geométrico de la conjetura de similitud de Erdős",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "085",
@@ -1407,7 +1569,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Regularidad en el extremo de la función maximal centrada plana",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "086",
@@ -1422,7 +1586,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Una cota L³ para la transformada de Hilbert trilineal",
+  "discipline_es": "Análisis real y complejo"
  },
  {
   "id": "087",
@@ -1441,7 +1607,9 @@
   ],
   "n_papers": 3,
   "n_lean": 2,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Las conjeturas de Mahler y el ancho simpléctico",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "088",
@@ -1458,7 +1626,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de proyección-volumen de Petty y contraejemplos simpliciales",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "089",
@@ -1475,7 +1645,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Embeddings L₁ de distorsión acotada para grafos planares y de anchura arbórea acotada",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "090",
@@ -1496,7 +1668,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Optimalidad universal de la red triangular",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "091",
@@ -1511,7 +1685,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura logarítmica de Brunn–Minkowski",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "092",
@@ -1528,7 +1704,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "El orden óptimo de la densidad de recubrimiento por cuerpos convexos",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "093",
@@ -1543,7 +1721,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Desigualdad logarítmica de Sobolev libre de dimensión para medidas log-cóncavas subgaussianas",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "094",
@@ -1558,7 +1738,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Reducción de dimensión subpolinómica en L_p",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "095",
@@ -1577,7 +1759,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Conos de hiperbolicidad sin levantamientos semidefinidos",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "096",
@@ -1592,7 +1776,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de la hélice gaussiana",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "097",
@@ -1607,7 +1793,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura euclídea de Steinitz–Bergström",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "098",
@@ -1622,7 +1810,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Una respuesta negativa al problema de Lang–Plaut",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "099",
@@ -1641,7 +1831,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La distorsión exacta de la distancia de edición en ℓ₁",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "100",
@@ -1662,7 +1854,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo a la cota de Bang para el recubrimiento con cilindros",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "101",
@@ -1677,7 +1871,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura del símplex exacta para constantes isótropas",
+  "discipline_es": "Geometría convexa y métrica"
  },
  {
   "id": "102",
@@ -1700,7 +1896,9 @@
   ],
   "n_papers": 5,
   "n_lean": 3,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La Conjetura de Unique Games y los umbrales óptimos de aproximación",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "103",
@@ -1715,7 +1913,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Desaleatorización del espacio logarítmico: L=RL=BPL",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "104",
@@ -1736,7 +1936,9 @@
   ],
   "n_papers": 4,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Algoritmos cuasipolinómicos para juegos de pago medio, estocásticos y de paridad",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "105",
@@ -1751,7 +1953,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de los juegos 2 a 1 con completitud perfecta",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "106",
@@ -1766,7 +1970,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Dureza de colorear grafos tricoloreables",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "107",
@@ -1785,7 +1991,9 @@
   ],
   "n_papers": 3,
   "n_lean": 3,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Multiplicación de matrices con exponente como máximo 9/4",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "108",
@@ -1800,7 +2008,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Una cota inferior cúbica permanente–determinante",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "109",
@@ -1815,7 +2025,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Multiplicación de enteros por debajo de n log n",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "110",
@@ -1832,7 +2044,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "k-server aleatorizado de orden óptimo en métricas arbitrarias",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "111",
@@ -1847,7 +2061,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Desigualdades de profeta para matroides con una muestra frente a un adversario todopoderoso",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "112",
@@ -1862,7 +2078,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Más allá del exponente de raíz cuadrada para circuitos de profundidad tres",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "113",
@@ -1879,7 +2097,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Conteo aproximado y la conjetura de entropía de emparejamientos perfectos",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "114",
@@ -1896,7 +2116,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Conteo aproximado de bases comunes de polimatroides enteros",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "115",
@@ -1913,7 +2135,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Muestreo y conteo de tablas de contingencia con márgenes arbitrarios",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "116",
@@ -1932,7 +2156,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Prueba de identidad uniforme para fórmulas no conmutativas",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "117",
@@ -1949,7 +2175,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Corte más disperso uniforme: dureza y brechas semidefinidas",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "118",
@@ -1964,7 +2192,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Brechas no acotadas en empaquetado y la conjetura de redondeo entero modificada",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "119",
@@ -1981,7 +2211,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Las conjeturas de Courtade–Kumar y de Hellinger",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "120",
@@ -1996,7 +2228,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Emparejamiento exacto en grafos generales en tiempo casi lineal",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "121",
@@ -2011,7 +2245,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Aproximación de la distancia de edición en tiempo esperado casi lineal",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "122",
@@ -2030,7 +2266,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Cotas inferiores superpolinómicas y reconstrucción cuasipolinómica a partir de trazas de borrado",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "124",
@@ -2045,7 +2283,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Planificación en tiempo polinómico en tres máquinas idénticas",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "125",
@@ -2062,7 +2302,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "El umbral de aproximación para k-medianas métricas",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "126",
@@ -2077,7 +2319,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Complejidad semidefinida exponencial del emparejamiento perfecto",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "127",
@@ -2092,7 +2336,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura asintótica de Gotsman–Linial",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "128",
@@ -2107,7 +2353,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Una aproximación de factor dos para la supercadena común más corta",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "129",
@@ -2124,7 +2372,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Costes de estados exponenciales para autómatas bidireccionales",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "130",
@@ -2141,7 +2391,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Transformadas de Fourier por debajo de n log n",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "131",
@@ -2156,7 +2408,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Mezcla polinómica de intercambios de grafos con grados prescritos",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "132",
@@ -2171,7 +2425,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un contraejemplo a la conjetura de sensibilidad cuadrática",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "133",
@@ -2192,7 +2448,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La complejidad del refinamiento de Weisfeiler–Leman",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "134",
@@ -2211,7 +2469,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Altura de estrella generalizada como máximo tres",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "135",
@@ -2226,7 +2486,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Complejidad homogénea exacta de profundidad cinco de productos de matrices",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "136",
@@ -2241,7 +2503,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura cuasilineal de PCP para PPAD",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "137",
@@ -2256,7 +2520,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Simulación de tiempo de una cinta en espacio de potencia dos quintos",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "138",
@@ -2273,7 +2539,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Subset Sum en tiempo O(2^{0,49n})",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "139",
@@ -2288,7 +2556,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Consultas subpolinómicas para muestreo log-cóncavo",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "140",
@@ -2313,7 +2583,9 @@
   ],
   "n_papers": 6,
   "n_lean": 5,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Cotas inferiores de memoria–muestras para regresión gaussiana sin ruido",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "141",
@@ -2328,7 +2600,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La teoría existencial de los reales y las sentencias existenciales–universales en la jerarquía de conteo",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "142",
@@ -2343,7 +2617,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Factorización polinómica determinista sobre cuerpos primos",
+  "discipline_es": "Informática teórica"
  },
  {
   "id": "143",
@@ -2360,7 +2636,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Cotas uniformes de ciclos límite en el decimosexto problema de Hilbert",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "144",
@@ -2375,7 +2653,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El problema del espectro de Lebesgue simple de Banach",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "145",
@@ -2390,7 +2670,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El problema de mezcla múltiple de Rokhlin",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "146",
@@ -2405,7 +2687,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de entropía positiva de Sinai para la aplicación estándar",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "147",
@@ -2422,7 +2706,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Birkhoff cerca del borde",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "148",
@@ -2437,7 +2723,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La fórmula de dimensión para medidas autosimilares en la recta",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "149",
@@ -2454,7 +2742,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Permanencia para redes de reacción débilmente reversibles",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "150",
@@ -2471,7 +2761,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Mezcla débil de billares triangulares irracionales",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "151",
@@ -2486,7 +2778,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo C¹ a la conjetura de entropía de Shub",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "152",
@@ -2501,7 +2795,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Entropía cero no garantiza un modelo suave de volumen positivo",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "153",
@@ -2516,7 +2812,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Clasificación aritmética de las convoluciones de Bernoulli",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "154",
@@ -2537,7 +2835,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Promedios ergódicos múltiples puntuales para transformaciones mezclantes",
+  "discipline_es": "Sistemas dinámicos y teoría ergódica"
  },
  {
   "id": "155",
@@ -2552,7 +2852,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un contraejemplo al teselado periódico en dimensión tres",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "156",
@@ -2567,7 +2869,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de Borsuk falla en dimensión nueve",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "157",
@@ -2586,7 +2890,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos a las conjeturas de Hadwiger y de Colin de Verdière",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "158",
@@ -2601,7 +2907,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El plano euclídeo no se puede colorear con cinco colores",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "159",
@@ -2616,7 +2924,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de la suma de recíprocos de Erdős y cotas cuasipolinómicas de Szemerédi",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "160",
@@ -2631,7 +2941,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Números de van der Waerden superexponenciales",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "161",
@@ -2646,7 +2958,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos a la conjetura de Sidorenko y a la conjetura de forzamiento",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "162",
@@ -2663,7 +2977,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Contraejemplos a las conjeturas de recubrimiento de Ryser y de recubrimiento por árboles de Gyárfás",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "164",
@@ -2678,7 +2994,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de sumas y productos finitos de Hindman",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "165",
@@ -2695,7 +3013,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Números de cruce exactos de grafos completos y bipartitos completos",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "166",
@@ -2710,7 +3030,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de distancias distintas de Erdős en dimensiones superiores",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "167",
@@ -2727,7 +3049,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Distancias ancladas y una mejora potencial para las distancias unitarias planas",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "168",
@@ -2742,7 +3066,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Invariancia combinatoria de los polinomios de Kazhdan–Lusztig",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "169",
@@ -2757,7 +3083,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de e-positividad de Shareshian–Wachs",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "170",
@@ -2774,7 +3102,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Exponentes logarítmicos exactos para números de Ramsey fuera de la diagonal",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "171",
@@ -2789,7 +3119,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Ramsey del hipercubo",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "172",
@@ -2804,7 +3136,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Clasificación de las configuraciones finitas de Ramsey euclidianas",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "173",
@@ -2819,7 +3153,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura del segundo vecindario de Seymour",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "174",
@@ -2836,7 +3172,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Construcción determinista de árboles delgados fuertes",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "175",
@@ -2855,7 +3193,9 @@
   ],
   "n_papers": 3,
   "n_lean": 2,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Las conjeturas de Talagrand y descomposiciones de grafos en umbrales de esperanza",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "176",
@@ -2870,7 +3210,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La segunda conjetura de Kahn–Kalai",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "177",
@@ -2885,7 +3227,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Expansores de cofrontera de grado acotado en toda dimensión",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "178",
@@ -2900,7 +3244,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Grafos de Ramanujan no bipartitos deterministas en todo grado fijo",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "179",
@@ -2915,7 +3261,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de Hadamard circulante",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "180",
@@ -2930,7 +3278,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura del ciclo hamiltoniano de Barnette",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "181",
@@ -2945,7 +3295,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de descomposición en ciclos de Erdős–Gallai",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "182",
@@ -2964,7 +3316,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Mejoras potenciales para conjuntos sin diferencias polinómicas",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "183",
@@ -2979,7 +3333,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Mejoras potenciales para rectas bisectoras planas y k-conjuntos",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "184",
@@ -2996,7 +3352,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Coloración e independencia en grafos con subgrafos prohibidos",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "185",
@@ -3011,7 +3369,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Contraejemplos a la intersección de matroides infinitos y al empaquetado/recubrimiento",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "186",
@@ -3028,7 +3388,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Las conjeturas de umbral de grafos e hipergrafos de Friedgut–Kalai",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "187",
@@ -3043,7 +3405,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Snaky en 21 jugadas de Maker",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "188",
@@ -3058,7 +3422,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La constante exacta en la eliminación aleatoria de triángulos",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "189",
@@ -3073,7 +3439,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Números de Ramsey exactos ciclo–clique",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "190",
@@ -3088,7 +3456,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La eliminación polinómica falla para matrices binarias ordenadas",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "191",
@@ -3103,7 +3473,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Una mejora potencial en el problema del triángulo de Heilbronn",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "192",
@@ -3118,7 +3490,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo a la conjetura de Gopalan–Servedio",
+  "discipline_es": "Combinatoria"
  },
  {
   "id": "193",
@@ -3133,7 +3507,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de multiplicidad de intersección de Serre",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "194",
@@ -3148,7 +3524,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de multiplicidad de Lech",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "195",
@@ -3163,7 +3541,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo a la conjetura del módulo de Cohen–Macaulay pequeño",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "196",
@@ -3178,7 +3558,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un contraejemplo a la conjetura de divisores de cero de Kaplansky",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "197",
@@ -3199,7 +3581,9 @@
   ],
   "n_papers": 4,
   "n_lean": 3,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Grupos no sofic y contraejemplos en anillos de grupo",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "198",
@@ -3214,7 +3598,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un contraejemplo a la conjetura de la pequeña dimensión finitística",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "199",
@@ -3231,7 +3617,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Contraejemplos a las conjeturas de Auslander–Reiten, Tachikawa y Nakayama",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "200",
@@ -3248,7 +3636,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Eisenbud–Green–Harris y lex-plus-potencias en característica cero",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "201",
@@ -3263,7 +3653,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo al problema de los anillos de división de Kurosh",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "202",
@@ -3278,7 +3670,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de peso de Alperin por bloques",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "203",
@@ -3295,7 +3689,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Donovan sobre cuerpos y anillos de valoración discreta",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "204",
@@ -3310,7 +3706,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Saturación tensorial para grupos spin pares",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "205",
@@ -3327,7 +3725,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La conjetura de Saxl y los cuadrados tensoriales universales",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "206",
@@ -3344,7 +3744,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Representación de retículos finitos: contraejemplos e indecidibilidad",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "207",
@@ -3361,7 +3763,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Las conjeturas ℓ¹-Bass y de traza de Bass compleja",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "208",
@@ -3376,7 +3780,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura finita de Benson–Etingof–Ostrik",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "209",
@@ -3393,7 +3799,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos enteros a la conjetura de Gersten",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "210",
@@ -3410,7 +3818,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La conjetura de Foulkes para sextas potencias y la estabilización cuadrática",
+  "discipline_es": "Álgebra"
  },
  {
   "id": "211",
@@ -3437,7 +3847,9 @@
   ],
   "n_papers": 7,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Geometría, difusión y espectros de mapas planos aleatorios",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "212",
@@ -3454,7 +3866,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Sin bigeodésicas y formas límite suaves en la percolación de primer paso plana",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "213",
@@ -3471,7 +3885,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Sin clústeres críticos infinitos en grafos cuasi-transitivos",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "214",
@@ -3486,7 +3902,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de no unicidad de Benjamini–Schramm",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "215",
@@ -3509,7 +3927,9 @@
   ],
   "n_papers": 5,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Límites continuos masivos y asintótica exacta de la masa para modelos O(n) planos",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "216",
@@ -3534,7 +3954,9 @@
   ],
   "n_papers": 6,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Correcciones logarítmicas críticas y escalado BKT para el modelo XY plano",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "217",
@@ -3551,7 +3973,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La ley de fluctuaciones a baja temperatura de Sherrington–Kirkpatrick",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "218",
@@ -3576,7 +4000,9 @@
   ],
   "n_papers": 6,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Universalidad conforme para modelos de Ising débilmente interactuantes y desordenados",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "219",
@@ -3593,7 +4019,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Universalidad GOE para grafos regulares aleatorios con desorden débil",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "220",
@@ -3612,7 +4040,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Leyes cero–uno direccionales y balisticidad en entornos aleatorios",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "221",
@@ -3627,7 +4057,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La fórmula de Mézard–Parisi para vidrios de espín diluidos",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "222",
@@ -3648,7 +4080,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Energías libres del perceptrón y atasco microscópico",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "223",
@@ -3673,7 +4107,9 @@
   ],
   "n_papers": 6,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Límites conformes de interfaces de clúster aleatorio en la red cuadrada",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "224",
@@ -3692,7 +4128,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Universalidad crítica y casi crítica para la percolación de Voronoi",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "225",
@@ -3707,7 +4145,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Límites del campo libre gaussiano para el modelo de seis vértices balanceado",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "226",
@@ -3722,7 +4162,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura CLE₄ del doble dímero en el semiplano",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "227",
@@ -3751,7 +4193,9 @@
   ],
   "n_papers": 8,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La transición de fase dinámica en el modelo de Sherrington–Kirkpatrick",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "228",
@@ -3768,7 +4212,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Transiciones de fase continuas para potenciales radiales de pares",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "229",
@@ -3787,7 +4233,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Umbrales exactos de reconstrucción de tres y cuatro estados",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "230",
@@ -3804,7 +4252,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Medida de Hausdorff exacta para SLE",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "231",
@@ -3819,7 +4269,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El bosque aleatorio libre generador es un factor de IID",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "232",
@@ -3838,7 +4290,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Campos gaussianos e interfaces SLE para alturas lipschitzianas",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "233",
@@ -3853,7 +4307,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El límite de escala crítico conjunto de Ashkin–Teller",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "234",
@@ -3868,7 +4324,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Presión a toda temperatura para vidrios de espín de Ising ortogonalmente invariantes",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "235",
@@ -3889,7 +4347,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Umbrales de Random-SAT, varianza exacta y computabilidad",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "236",
@@ -3904,7 +4364,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El umbral de factor de IID para estados libres de Ising en árboles",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "237",
@@ -3943,7 +4405,9 @@
   ],
   "n_papers": 13,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El exponente de diámetro de tres cuartos para caminatas en panal",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "238",
@@ -3980,7 +4444,9 @@
   ],
   "n_papers": 12,
   "n_lean": 3,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Mezcla logarítmica óptima de la barajada de Thorp",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "239",
@@ -3997,7 +4463,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Tasas de singularidad exactas para matrices de signos simétricas",
+  "discipline_es": "Probabilidad y mecánica estadística"
  },
  {
   "id": "240",
@@ -4014,7 +4482,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La conjetura de categoricidad eventual de Shelah",
+  "discipline_es": "Lógica matemática"
  },
  {
   "id": "241",
@@ -4029,7 +4499,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Rigidez de los grados de Turing",
+  "discipline_es": "Lógica matemática"
  },
  {
   "id": "242",
@@ -4044,7 +4516,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Representaciones diofánticas de un solo pliegue",
+  "discipline_es": "Lógica matemática"
  },
  {
   "id": "243",
@@ -4061,7 +4535,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "El conteo sin elección no captura el tiempo polinómico",
+  "discipline_es": "Lógica matemática"
  },
  {
   "id": "244",
@@ -4076,7 +4552,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El principio de partición no implica elección",
+  "discipline_es": "Lógica matemática"
  },
  {
   "id": "245",
@@ -4091,7 +4569,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura β de Barendregt–Geuvers–Klop",
+  "discipline_es": "Lógica matemática"
  },
  {
   "id": "246",
@@ -4106,7 +4586,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Cannon",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "247",
@@ -4123,7 +4605,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un 2-grupo infinito, finitamente presentado y residualmente finito",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "248",
@@ -4138,7 +4622,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El grupo F de Thompson no es promediable",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "249",
@@ -4153,7 +4639,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo finitamente generado a Eilenberg–Ganea",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "250",
@@ -4172,7 +4660,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La conjetura de Boone–Higman y la finitud superior",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "251",
@@ -4189,7 +4679,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Promediabilidad, unitarizabilidad y estabilidad de Ulam",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "252",
@@ -4204,7 +4696,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un grupo hiperbólico sin torsión que no es residualmente finito",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "253",
@@ -4219,7 +4713,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un grupo simple, infinito, finitamente presentado y promediable",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "254",
@@ -4238,7 +4734,9 @@
   ],
   "n_papers": 3,
   "n_lean": 2,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Espacios clasificantes y obstrucciones geométricas para grupos de Artin",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "255",
@@ -4253,7 +4751,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Rigidez cuasi-isométrica de grupos virtualmente policíclicos",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "256",
@@ -4270,7 +4770,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Howie sobre ecuaciones sobre grupos",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "257",
@@ -4285,7 +4787,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un grupo hiperbólico sin acción CAT(0) geométrica",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "258",
@@ -4302,7 +4806,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Gersten para grupos de una relación",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "259",
@@ -4317,7 +4823,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un grupo sin precio fijo",
+  "discipline_es": "Teoría de grupos"
  },
  {
   "id": "260",
@@ -4356,7 +4864,9 @@
   ],
   "n_papers": 13,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Desigualdades de Penrose espaciotemporales y rigidez",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "261",
@@ -4373,7 +4883,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Localización y deslocalización en el modelo de Anderson",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "262",
@@ -4392,7 +4904,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Desigualdades exactas de Lieb–Thirring unidimensionales",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "263",
@@ -4411,7 +4925,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Las conjeturas de ionización y de ionización generalizada",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "264",
@@ -4430,7 +4946,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Censura cósmica fuerte cerca de datos de Kerr de dos extremos",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "265",
@@ -4447,7 +4965,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La ley del área con brecha en dos dimensiones",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "266",
@@ -4464,7 +4984,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Exactamente tres bases mutuamente insesgadas en dimensión seis",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "267",
@@ -4487,7 +5009,9 @@
   ],
   "n_papers": 5,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Condensación de Bose–Einstein a temperatura positiva y depleción cuántica",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "268",
@@ -4504,7 +5028,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La brecha de Haldane de espín uno",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "269",
@@ -4521,7 +5047,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La brecha de Laughlin y la estabilidad bajo desorden escalar",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "270",
@@ -4538,7 +5066,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Estados ligados de umbral y de energía positiva del modelo BFSS",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "271",
@@ -4559,7 +5089,9 @@
   ],
   "n_papers": 4,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La ley de Bloch y el orden ferromagnético espontáneo",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "272",
@@ -4574,7 +5106,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Entrelazamiento sin clave secreta y la conjetura PPT-cuadrado",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "273",
@@ -4589,7 +5123,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La desigualdad de entropía del número de fotones",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "274",
@@ -4606,7 +5142,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de paridad de Moore para QAC⁰",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "275",
@@ -4623,7 +5161,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "QMA-dureza de la energía de Coulomb en el continuo",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "276",
@@ -4638,7 +5178,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La capacidad clásica de la amortiguación de amplitud generalizada",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "277",
@@ -4653,7 +5195,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Repetición de umbral para juegos entrelazados",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "278",
@@ -4668,7 +5212,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Fallo de la representación de conjunto de Kohn–Sham",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "279",
@@ -4683,7 +5229,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Factorización cuántica exacta sobre un conjunto finito fijo de puertas",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "280",
@@ -4698,7 +5246,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Localidad fuerte para álgebras de operadores de vértice unitarias fuertemente racionales",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "281",
@@ -4715,7 +5265,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Optimalidad de QAOA para el modelo SK",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "282",
@@ -4730,7 +5282,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Mejora de escala a conforme en teoría cuántica de campos de cuatro dimensiones",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "283",
@@ -4745,7 +5299,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Síntesis unitaria de error constante en tiempo polinómico a partir de un oráculo booleano",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "284",
@@ -4760,7 +5316,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El exponente de consultas aleatorizado–cuántico óptimo",
+  "discipline_es": "Física matemática"
  },
  {
   "id": "285",
@@ -4779,7 +5337,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos a Baum–Connes y a Kadison–Kaplansky",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "286",
@@ -4796,7 +5356,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Rigidez aritmética de las álgebras de von Neumann de retículos",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "287",
@@ -4811,7 +5373,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Todos los factores de grupo libre no abelianos son isomorfos",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "288",
@@ -4826,7 +5390,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de similitud de Kadison",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "289",
@@ -4845,7 +5411,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura fuerte de Kadison–Kastler",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "290",
@@ -4862,7 +5430,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La conjetura del bicentralizador de Connes y bicentralizadores relativos",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "291",
@@ -4883,7 +5453,9 @@
   ],
   "n_papers": 4,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Toms–Winter y la estabilidad equivariante de Jiang–Su",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "292",
@@ -4898,7 +5470,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo al problema de inmersión de ultrapotencia de norma de Kirchberg",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "293",
@@ -4915,7 +5489,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Un contraejemplo al problema del subespacio hiperinvariante",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "294",
@@ -4930,7 +5506,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un contraejemplo a la conjetura de cuasitrazas de Kaplansky",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "295",
@@ -4945,7 +5523,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de cohomología de Kadison–Ringrose",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "296",
@@ -4960,7 +5540,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El problema del generador para factores finitos",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "297",
@@ -4975,7 +5557,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo en ZFC al problema de Naimark",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "298",
@@ -4990,7 +5574,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo a la conjetura de igualdad de entropía libre de Voiculescu",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "299",
@@ -5005,7 +5591,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El criterio de caracteres de Kirchberg–Rørdam",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "300",
@@ -5022,7 +5610,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de paving fuerte-operador cuadrático de Popa–Vaes",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "301",
@@ -5037,7 +5627,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Clasificación por conos de traza tras la estabilización de Razak–Jacelon",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "302",
@@ -5054,7 +5646,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La fórmula de Phillips–Toms para acciones enteras mínimas",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "303",
@@ -5069,7 +5663,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "De la pura infinitud ordinaria a la fuerte",
+  "discipline_es": "Álgebras de operadores"
  },
  {
   "id": "304",
@@ -5084,7 +5680,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Hilbert–Smith en toda dimensión",
+  "discipline_es": "Topología"
  },
  {
   "id": "305",
@@ -5103,7 +5701,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos al encaje de discos y a la conjetura de variedades de Wall",
+  "discipline_es": "Topología"
  },
  {
   "id": "306",
@@ -5118,7 +5718,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de cirugía puramente cosmética para nudos en S³",
+  "discipline_es": "Topología"
  },
  {
   "id": "307",
@@ -5135,7 +5737,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Fallo de la inyectividad racional del ensamblaje grueso máximo",
+  "discipline_es": "Topología"
  },
  {
   "id": "308",
@@ -5152,7 +5756,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Complejos de Smith–Toda a toda altura con primos variables",
+  "discipline_es": "Topología"
  },
  {
   "id": "309",
@@ -5167,7 +5773,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El problema del invariante de Kervaire en el primo tres",
+  "discipline_es": "Topología"
  },
  {
   "id": "310",
@@ -5182,7 +5790,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Quillen en homología racional",
+  "discipline_es": "Topología"
  },
  {
   "id": "311",
@@ -5197,7 +5807,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura del ideal invariante de Chai",
+  "discipline_es": "Topología"
  },
  {
   "id": "312",
@@ -5212,7 +5824,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La hipótesis de homotopía de Grothendieck",
+  "discipline_es": "Topología"
  },
  {
   "id": "313",
@@ -5227,7 +5841,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Generación finita para la esfera K(n)-local",
+  "discipline_es": "Topología"
  },
  {
   "id": "314",
@@ -5242,7 +5858,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El problema cromático del punto fijo de Smith para p-grupos finitos",
+  "discipline_es": "Topología"
  },
  {
   "id": "315",
@@ -5257,7 +5875,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Singer en dimensión cuatro",
+  "discipline_es": "Topología"
  },
  {
   "id": "316",
@@ -5272,7 +5892,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de Curtis",
+  "discipline_es": "Topología"
  },
  {
   "id": "317",
@@ -5287,7 +5909,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Estructuras de modelo de Thomason en toda dimensión superior estricta",
+  "discipline_es": "Topología"
  },
  {
   "id": "318",
@@ -5310,7 +5934,9 @@
   ],
   "n_papers": 5,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "División cromática: contraejemplos y filtraciones",
+  "discipline_es": "Topología"
  },
  {
   "id": "319",
@@ -5325,7 +5951,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Contraejemplos a la conjetura de Hahn–Wilson en altura dos",
+  "discipline_es": "Topología"
  },
  {
   "id": "320",
@@ -5340,7 +5968,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo cuatridimensional a la rigidez de Borel",
+  "discipline_es": "Topología"
  },
  {
   "id": "321",
@@ -5355,7 +5985,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo a la conjetura D(2) finita de Wall",
+  "discipline_es": "Topología"
  },
  {
   "id": "322",
@@ -5370,7 +6002,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El problema de la isometría de esferas de Tingley",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "323",
@@ -5385,7 +6019,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Independencia relativa del problema del cociente separable",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "324",
@@ -5402,7 +6038,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Equivalencia lipschitziana sin isomorfismo lineal",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "325",
@@ -5419,7 +6057,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de Crouzeix completa",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "326",
@@ -5434,7 +6074,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura cotipo–cotipo bajo la propiedad de aproximación",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "327",
@@ -5449,7 +6091,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "El tipo de Markov caracteriza la superreflexividad",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "328",
@@ -5464,7 +6108,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Puntos fijos de aplicaciones no expansivas en espacios de Banach reflexivos",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "329",
@@ -5479,7 +6125,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Un contraejemplo a la conjetura de dualidad de entropía métrica de Pietsch",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "330",
@@ -5494,7 +6142,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Una respuesta negativa a la pregunta de aproximación Lipschitz-libre de Kalton",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "331",
@@ -5521,7 +6171,9 @@
   ],
   "n_papers": 7,
   "n_lean": 7,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Convexidad uniforme de punto medio asintótica sin renormamiento asintóticamente uniformemente convexo",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "332",
@@ -5536,7 +6188,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Cotipo de Markov métrico dos para ℓ₁",
+  "discipline_es": "Análisis funcional"
  },
  {
   "id": "333",
@@ -5551,7 +6205,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Inmersiones isométricas suaves de superficies en ℝ⁴",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "334",
@@ -5566,7 +6222,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Una métrica de superficie suave sin inmersión local en ℝ³",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "335",
@@ -5583,7 +6241,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La desigualdad integral de curvatura escalar de Gromov",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "336",
@@ -5602,7 +6262,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Curvatura escalar espectral y anchura de codimensión dos",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "337",
@@ -5619,7 +6281,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Isoperimetría de Cartan–Hadamard y rellenos CAT(0)",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "338",
@@ -5634,7 +6298,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de uniformización de Yau",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "339",
@@ -5649,7 +6315,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de rigidez de entropía de Katok",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "340",
@@ -5664,7 +6332,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Un contraejemplo a la conjetura lagrangiana cercana",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "341",
@@ -5679,7 +6349,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de deformación hipersimpléctica de Donaldson",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "342",
@@ -5694,7 +6366,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de Donaldson de dominado a compatible",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "343",
@@ -5709,7 +6383,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Criterios exactos de empaquetado de bolas simplécticas en dimensiones superiores",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "344",
@@ -5724,7 +6400,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura métrica de Blaschke",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "345",
@@ -5739,7 +6417,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Infinitas geodésicas cerradas en esferas y variedades de dimensión tres",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "346",
@@ -5756,7 +6436,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Cotas exactas del conjunto singular para varifolds enteros estacionarios",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "347",
@@ -5779,7 +6461,9 @@
   ],
   "n_papers": 5,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Contraejemplos a formas fuertes de la conjetura del punto fijo de Arnold",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "348",
@@ -5798,7 +6482,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Variedades de Einstein de dimensión cuatro de curvatura no negativa y una brecha topológica",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "349",
@@ -5813,7 +6499,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de volumen mínimo de Solomon–Yau",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "350",
@@ -5832,7 +6520,9 @@
   ],
   "n_papers": 3,
   "n_lean": 2,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La conjetura nodal de Yau: superficies y contraejemplos",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "351",
@@ -5851,7 +6541,9 @@
   ],
   "n_papers": 3,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La curvatura escalar detecta singularidades del flujo de Ricci en dimensión cuatro",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "352",
@@ -5866,7 +6558,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Singularidad en tiempo finito del flujo de Calabi",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "353",
@@ -5883,7 +6577,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El umbral de dimensión exacto para la rigidez afín de Bernstein",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "354",
@@ -5898,7 +6594,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Regiones isoperimétricas en el 3-toro cúbico",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "355",
@@ -5913,7 +6611,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Flujos tangentes únicos en la primera singularidad de superficie",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "356",
@@ -5930,7 +6630,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "La caracterización de Gigli de la curvatura de Alexandrov",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "357",
@@ -5945,7 +6647,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Coordenadas bi-Lipschitz en todo punto regular RCD",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "358",
@@ -5960,7 +6664,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Una 3-variedad sin puntos conjugados y sin métrica de curvatura no positiva",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "359",
@@ -5977,7 +6683,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Curvatura de Kähler negativa sin coordenadas holomorfas acotadas",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "360",
@@ -5994,7 +6702,9 @@
   ],
   "n_papers": 2,
   "n_lean": 2,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "La conjetura de convexidad de Villani y el transporte óptimo regular",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "361",
@@ -6011,7 +6721,9 @@
   ],
   "n_papers": 2,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Contraejemplos a la cota de dimensión armónica de Yau",
+  "discipline_es": "Geometría diferencial"
  },
  {
   "id": "362",
@@ -6026,7 +6738,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Suavidad global para Vlasov–Maxwell relativista",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "363",
@@ -6043,7 +6757,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "No unicidad de Boltzmann con conservación local exacta",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "364",
@@ -6060,7 +6776,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Límites cinéticos y fluctuaciones durante la vida útil de Boltzmann",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "365",
@@ -6079,7 +6797,9 @@
   ],
   "n_papers": 3,
   "n_lean": 1,
-  "lean": "parcial"
+  "lean": "parcial",
+  "title_es": "Recuperación conjunta de la métrica y la conexión a partir de un parche de frontera",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "366",
@@ -6094,7 +6814,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de regularidad de Mumford–Shah plana",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "367",
@@ -6109,7 +6831,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La dimensión crítica del problema de Bernoulli de una fase",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "368",
@@ -6126,7 +6850,9 @@
   ],
   "n_papers": 2,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "El problema de aproximación de Ball–Evans tridimensional",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "369",
@@ -6141,7 +6867,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de los puntos calientes para dominios planos simplemente conexos",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "370",
@@ -6156,7 +6884,9 @@
   ],
   "n_papers": 1,
   "n_lean": 1,
-  "lean": "completo"
+  "lean": "completo",
+  "title_es": "Las conjeturas subcríticas de Lane–Emden y Hénon–Lane–Emden",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "371",
@@ -6171,7 +6901,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Explosión estable para una ecuación de Schrödinger desenfocante",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "372",
@@ -6186,7 +6918,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Unicidad global en elasticidad isótropa suave",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "373",
@@ -6201,7 +6935,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "No alcance en el transporte de Coulomb de tres marginales",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "374",
@@ -6216,7 +6952,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Estabilidad exacta de un tercio de los mapas de transporte óptimo",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "375",
@@ -6231,7 +6969,9 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "La conjetura de De Giorgi en dimensión ocho",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "376",
@@ -6262,7 +7002,9 @@
   ],
   "n_papers": 9,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Computación universal en flujos de Navier–Stokes forzados",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  },
  {
   "id": "377",
@@ -6277,6 +7019,8 @@
   ],
   "n_papers": 1,
   "n_lean": 0,
-  "lean": "no visible"
+  "lean": "no visible",
+  "title_es": "Regularidad interior C^{1,α} para funciones infinito-armónicas",
+  "discipline_es": "Ecuaciones en derivadas parciales"
  }
 ]
