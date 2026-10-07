@@ -87,7 +87,7 @@ lines = [
     "",
     f"Las **372 familias de resultados** de [openai/math](https://github.com/openai/math), ordenadas de mayor a menor impacto. Solo el orden: sin explicaciones.",
     "",
-    "**¿Quieres saber qué resuelve cada uno?** Los 50 primeros tienen ficha, con una versión sencilla y ejemplos, en el [ranking explicado](ranking.md). Para el resto, el resumen original en inglés está en [`CONTENTS.md`](../CONTENTS.md) y en `data/catalogue.json`.",
+    "**¿Quieres saber qué resuelve cada uno?** Los 50 primeros tienen ficha, con una versión sencilla y ejemplos, en el [ranking explicado](ranking.md). Del 51 al 100 hay explicaciones cortas en [ranking-51-100.md](ranking-51-100.md). Para el resto, el resumen original en inglés está en [`CONTENTS.md`](../CONTENTS.md) y en `data/catalogue.json`.",
     "",
     "**Cómo se ordena.** Los 50 primeros están fijados a mano y coinciden con el ranking explicado. Del 51 en adelante, el orden sale de una puntuación reproducible (`scripts/build_ranking.py`) que combina: si el problema tiene nombre propio reconocible, si está comprobado con Lean, el área (más peso en las que tienen efecto fuera de las matemáticas), si cierra una conjetura y si es algorítmico. Es una opinión del análisis, no de OpenAI. Dos puestos seguidos pueden ser intercambiables.",
     "",
@@ -100,9 +100,11 @@ for n, f in enumerate(ordered, 1):
     title = f["title_es"].replace("|", "\\|")
     if n <= 50:
         title = f"**[{title}](ranking.md)**"
+    elif n <= 100:
+        title = f"[{title}](ranking-51-100.md#r{n})"
     lines.append(f"| {n} | {title} | {f['id']} | {f['discipline_es']} | {BADGE[f['lean']]} |")
     if n == 50:
-        lines.append("| | *Del 51 en adelante: orden por puntuación. Sin ficha explicativa.* | | | |")
+        lines.append("| | *Del 51 en adelante: orden por puntuación. Del 51 al 100, explicación corta al pulsar el título.* | | | |")
 
 lines += ["", "---", "", "Generado por `scripts/build_ranking.py` a partir de `data/catalogue.json`. El ID es el número de familia en `openai/math`.", ""]
 (ROOT / "analysis" / "ranking-completo.md").write_text("\n".join(lines), encoding="utf-8")

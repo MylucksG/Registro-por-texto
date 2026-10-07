@@ -2,7 +2,7 @@
 
 Las **372 familias de resultados** de [openai/math](https://github.com/openai/math), ordenadas de mayor a menor impacto. Solo el orden: sin explicaciones.
 
-**¿Quieres saber qué resuelve cada uno?** Los 50 primeros tienen ficha, con una versión sencilla y ejemplos, en el [ranking explicado](ranking.md). Para el resto, el resumen original en inglés está en [`CONTENTS.md`](../CONTENTS.md) y en `data/catalogue.json`.
+**¿Quieres saber qué resuelve cada uno?** Los 50 primeros tienen ficha, con una versión sencilla y ejemplos, en el [ranking explicado](ranking.md). Del 51 al 100 hay explicaciones cortas en [ranking-51-100.md](ranking-51-100.md). Para el resto, el resumen original en inglés está en [`CONTENTS.md`](../CONTENTS.md) y en `data/catalogue.json`.
 
 **Cómo se ordena.** Los 50 primeros están fijados a mano y coinciden con el ranking explicado. Del 51 en adelante, el orden sale de una puntuación reproducible (`scripts/build_ranking.py`) que combina: si el problema tiene nombre propio reconocible, si está comprobado con Lean, el área (más peso en las que tienen efecto fuera de las matemáticas), si cierra una conjetura y si es algorítmico. Es una opinión del análisis, no de OpenAI. Dos puestos seguidos pueden ser intercambiables.
 
@@ -60,57 +60,57 @@ Las **372 familias de resultados** de [openai/math](https://github.com/openai/ma
 | 48 | **[La conjetura de Hilbert–Smith en toda dimensión](ranking.md)** | 304 | Topología | ⚪ |
 | 49 | **[La conjetura de uniformización de Yau](ranking.md)** | 338 | Geometría diferencial | ⚪ |
 | 50 | **[La hipótesis de homotopía de Grothendieck](ranking.md)** | 312 | Topología | ✅ |
-| | *Del 51 en adelante: orden por puntuación. Sin ficha explicativa.* | | | |
-| 51 | Brechas no acotadas en empaquetado y la conjetura de redondeo entero modificada | 118 | Informática teórica | ✅ |
-| 52 | La conjetura de los juegos 2 a 1 con completitud perfecta | 105 | Informática teórica | ✅ |
-| 53 | Un contraejemplo a la conjetura de sensibilidad cuadrática | 132 | Informática teórica | ✅ |
-| 54 | La conjetura de Brennan y un contraejemplo a la predicción de Kraetzer | 072 | Análisis real y complejo | ✅ |
-| 55 | La conjetura del foso gaussiano | 028 | Teoría de números | ✅ |
-| 56 | Un contraejemplo al teselado periódico en dimensión tres | 155 | Combinatoria | ✅ |
-| 57 | Números de van der Waerden superexponenciales | 160 | Combinatoria | ✅ |
-| 58 | La conjetura de descomposición en ciclos de Erdős–Gallai | 181 | Combinatoria | ✅ |
-| 59 | Corte más disperso uniforme: dureza y brechas semidefinidas | 117 | Informática teórica | 🟡 |
-| 60 | El umbral de aproximación para k-medianas métricas | 125 | Informática teórica | 🟡 |
-| 61 | Transformadas de Fourier por debajo de n log n | 130 | Informática teórica | 🟡 |
-| 62 | Números de cruce exactos de grafos completos y bipartitos completos | 165 | Combinatoria | ✅ |
-| 63 | La conjetura de Crouzeix completa | 325 | Análisis funcional | ✅ |
-| 64 | La segunda conjetura de Kahn–Kalai | 176 | Combinatoria | ✅ |
-| 65 | La conjetura de Hadamard circulante | 179 | Combinatoria | ✅ |
-| 66 | Un contraejemplo a la conjetura de divisores de cero de Kaplansky | 196 | Álgebra | ✅ |
-| 67 | Repetición de umbral para juegos entrelazados | 277 | Física matemática | ✅ |
-| 68 | Un contraejemplo a la conjetura de cuasitrazas de Kaplansky | 294 | Álgebras de operadores | ✅ |
-| 69 | Las conjeturas subcríticas de Lane–Emden y Hénon–Lane–Emden | 370 | Ecuaciones en derivadas parciales | ✅ |
-| 70 | Contraejemplos a las conjeturas de recubrimiento de Ryser y de recubrimiento por árboles de Gyárfás | 162 | Combinatoria | 🟡 |
-| 71 | Un contraejemplo al problema del subespacio hiperinvariante | 293 | Álgebras de operadores | 🟡 |
-| 72 | Cotas inferiores superpolinómicas y reconstrucción cuasipolinómica a partir de trazas de borrado | 122 | Informática teórica | ⚪ |
-| 73 | La conjetura de convexidad de Villani y el transporte óptimo regular | 360 | Geometría diferencial | ✅ |
-| 74 | Las conjeturas de Talagrand y descomposiciones de grafos en umbrales de esperanza | 175 | Combinatoria | 🟡 |
-| 75 | Desigualdades exactas de Lieb–Thirring unidimensionales | 262 | Física matemática | 🟡 |
-| 76 | Densidad inferior positiva de grandes huecos entre primos | 026 | Teoría de números | ⚪ |
-| 77 | Rigidez de los grados de Turing | 241 | Lógica matemática | ✅ |
-| 78 | Un grupo hiperbólico sin torsión que no es residualmente finito | 252 | Teoría de grupos | ✅ |
-| 79 | Un grupo simple, infinito, finitamente presentado y promediable | 253 | Teoría de grupos | ✅ |
-| 80 | Un grupo hiperbólico sin acción CAT(0) geométrica | 257 | Teoría de grupos | ✅ |
-| 81 | El problema de la isometría de esferas de Tingley | 322 | Análisis funcional | ✅ |
-| 82 | La conjetura de Donaldson de dominado a compatible | 342 | Geometría diferencial | ✅ |
-| 83 | Zilber–Pink en variedades abelianas y la variedad tridimensional de Siegel | 016 | Teoría de números | ⚪ |
-| 84 | Sin clústeres críticos infinitos en grafos cuasi-transitivos | 213 | Probabilidad y mecánica estadística | 🟡 |
-| 85 | La brecha de Laughlin y la estabilidad bajo desorden escalar | 269 | Física matemática | 🟡 |
-| 86 | La conjetura fuerte de Kadison–Kastler | 289 | Álgebras de operadores | ⚪ |
-| 87 | La conjetura de Nagata y las constantes de Seshadri máximas | 039 | Geometría algebraica y compleja | 🟡 |
-| 88 | Toms–Winter y la estabilidad equivariante de Jiang–Su | 291 | Álgebras de operadores | 🟡 |
-| 89 | Conjetura de Goldfeld | 006 | Teoría de números | ⚪ |
-| 90 | k-server aleatorizado de orden óptimo en métricas arbitrarias | 110 | Informática teórica | ⚪ |
-| 91 | Correcciones logarítmicas críticas y escalado BKT para el modelo XY plano | 216 | Probabilidad y mecánica estadística | ⚪ |
-| 92 | Desigualdades de Penrose espaciotemporales y rigidez | 260 | Física matemática | ⚪ |
-| 93 | Condensación de Bose–Einstein a temperatura positiva y depleción cuántica | 267 | Física matemática | ⚪ |
-| 94 | La conjetura de Boone–Higman y la finitud superior | 250 | Teoría de grupos | 🟡 |
-| 95 | Chowla de dos puntos y la conjetura de Elliott binaria corregida | 007 | Teoría de números | ⚪ |
-| 96 | La conjetura inversa de Goldbach de Ostmann | 013 | Teoría de números | ⚪ |
-| 97 | La conjetura débil inhomogénea de Duffin–Schaeffer | 022 | Teoría de números | ⚪ |
-| 98 | La conjetura de las fracciones egipcias cortas de Erdős | 025 | Teoría de números | ✅ |
-| 99 | La conjetura de Stein para transformadas de Hilbert a lo largo de direcciones lipschitzianas | 083 | Análisis real y complejo | ⚪ |
-| 100 | Una cota inferior cúbica permanente–determinante | 108 | Informática teórica | ⚪ |
+| | *Del 51 en adelante: orden por puntuación. Del 51 al 100, explicación corta al pulsar el título.* | | | |
+| 51 | [Brechas no acotadas en empaquetado y la conjetura de redondeo entero modificada](ranking-51-100.md#r51) | 118 | Informática teórica | ✅ |
+| 52 | [La conjetura de los juegos 2 a 1 con completitud perfecta](ranking-51-100.md#r52) | 105 | Informática teórica | ✅ |
+| 53 | [Un contraejemplo a la conjetura de sensibilidad cuadrática](ranking-51-100.md#r53) | 132 | Informática teórica | ✅ |
+| 54 | [La conjetura de Brennan y un contraejemplo a la predicción de Kraetzer](ranking-51-100.md#r54) | 072 | Análisis real y complejo | ✅ |
+| 55 | [La conjetura del foso gaussiano](ranking-51-100.md#r55) | 028 | Teoría de números | ✅ |
+| 56 | [Un contraejemplo al teselado periódico en dimensión tres](ranking-51-100.md#r56) | 155 | Combinatoria | ✅ |
+| 57 | [Números de van der Waerden superexponenciales](ranking-51-100.md#r57) | 160 | Combinatoria | ✅ |
+| 58 | [La conjetura de descomposición en ciclos de Erdős–Gallai](ranking-51-100.md#r58) | 181 | Combinatoria | ✅ |
+| 59 | [Corte más disperso uniforme: dureza y brechas semidefinidas](ranking-51-100.md#r59) | 117 | Informática teórica | 🟡 |
+| 60 | [El umbral de aproximación para k-medianas métricas](ranking-51-100.md#r60) | 125 | Informática teórica | 🟡 |
+| 61 | [Transformadas de Fourier por debajo de n log n](ranking-51-100.md#r61) | 130 | Informática teórica | 🟡 |
+| 62 | [Números de cruce exactos de grafos completos y bipartitos completos](ranking-51-100.md#r62) | 165 | Combinatoria | ✅ |
+| 63 | [La conjetura de Crouzeix completa](ranking-51-100.md#r63) | 325 | Análisis funcional | ✅ |
+| 64 | [La segunda conjetura de Kahn–Kalai](ranking-51-100.md#r64) | 176 | Combinatoria | ✅ |
+| 65 | [La conjetura de Hadamard circulante](ranking-51-100.md#r65) | 179 | Combinatoria | ✅ |
+| 66 | [Un contraejemplo a la conjetura de divisores de cero de Kaplansky](ranking-51-100.md#r66) | 196 | Álgebra | ✅ |
+| 67 | [Repetición de umbral para juegos entrelazados](ranking-51-100.md#r67) | 277 | Física matemática | ✅ |
+| 68 | [Un contraejemplo a la conjetura de cuasitrazas de Kaplansky](ranking-51-100.md#r68) | 294 | Álgebras de operadores | ✅ |
+| 69 | [Las conjeturas subcríticas de Lane–Emden y Hénon–Lane–Emden](ranking-51-100.md#r69) | 370 | Ecuaciones en derivadas parciales | ✅ |
+| 70 | [Contraejemplos a las conjeturas de recubrimiento de Ryser y de recubrimiento por árboles de Gyárfás](ranking-51-100.md#r70) | 162 | Combinatoria | 🟡 |
+| 71 | [Un contraejemplo al problema del subespacio hiperinvariante](ranking-51-100.md#r71) | 293 | Álgebras de operadores | 🟡 |
+| 72 | [Cotas inferiores superpolinómicas y reconstrucción cuasipolinómica a partir de trazas de borrado](ranking-51-100.md#r72) | 122 | Informática teórica | ⚪ |
+| 73 | [La conjetura de convexidad de Villani y el transporte óptimo regular](ranking-51-100.md#r73) | 360 | Geometría diferencial | ✅ |
+| 74 | [Las conjeturas de Talagrand y descomposiciones de grafos en umbrales de esperanza](ranking-51-100.md#r74) | 175 | Combinatoria | 🟡 |
+| 75 | [Desigualdades exactas de Lieb–Thirring unidimensionales](ranking-51-100.md#r75) | 262 | Física matemática | 🟡 |
+| 76 | [Densidad inferior positiva de grandes huecos entre primos](ranking-51-100.md#r76) | 026 | Teoría de números | ⚪ |
+| 77 | [Rigidez de los grados de Turing](ranking-51-100.md#r77) | 241 | Lógica matemática | ✅ |
+| 78 | [Un grupo hiperbólico sin torsión que no es residualmente finito](ranking-51-100.md#r78) | 252 | Teoría de grupos | ✅ |
+| 79 | [Un grupo simple, infinito, finitamente presentado y promediable](ranking-51-100.md#r79) | 253 | Teoría de grupos | ✅ |
+| 80 | [Un grupo hiperbólico sin acción CAT(0) geométrica](ranking-51-100.md#r80) | 257 | Teoría de grupos | ✅ |
+| 81 | [El problema de la isometría de esferas de Tingley](ranking-51-100.md#r81) | 322 | Análisis funcional | ✅ |
+| 82 | [La conjetura de Donaldson de dominado a compatible](ranking-51-100.md#r82) | 342 | Geometría diferencial | ✅ |
+| 83 | [Zilber–Pink en variedades abelianas y la variedad tridimensional de Siegel](ranking-51-100.md#r83) | 016 | Teoría de números | ⚪ |
+| 84 | [Sin clústeres críticos infinitos en grafos cuasi-transitivos](ranking-51-100.md#r84) | 213 | Probabilidad y mecánica estadística | 🟡 |
+| 85 | [La brecha de Laughlin y la estabilidad bajo desorden escalar](ranking-51-100.md#r85) | 269 | Física matemática | 🟡 |
+| 86 | [La conjetura fuerte de Kadison–Kastler](ranking-51-100.md#r86) | 289 | Álgebras de operadores | ⚪ |
+| 87 | [La conjetura de Nagata y las constantes de Seshadri máximas](ranking-51-100.md#r87) | 039 | Geometría algebraica y compleja | 🟡 |
+| 88 | [Toms–Winter y la estabilidad equivariante de Jiang–Su](ranking-51-100.md#r88) | 291 | Álgebras de operadores | 🟡 |
+| 89 | [Conjetura de Goldfeld](ranking-51-100.md#r89) | 006 | Teoría de números | ⚪ |
+| 90 | [k-server aleatorizado de orden óptimo en métricas arbitrarias](ranking-51-100.md#r90) | 110 | Informática teórica | ⚪ |
+| 91 | [Correcciones logarítmicas críticas y escalado BKT para el modelo XY plano](ranking-51-100.md#r91) | 216 | Probabilidad y mecánica estadística | ⚪ |
+| 92 | [Desigualdades de Penrose espaciotemporales y rigidez](ranking-51-100.md#r92) | 260 | Física matemática | ⚪ |
+| 93 | [Condensación de Bose–Einstein a temperatura positiva y depleción cuántica](ranking-51-100.md#r93) | 267 | Física matemática | ⚪ |
+| 94 | [La conjetura de Boone–Higman y la finitud superior](ranking-51-100.md#r94) | 250 | Teoría de grupos | 🟡 |
+| 95 | [Chowla de dos puntos y la conjetura de Elliott binaria corregida](ranking-51-100.md#r95) | 007 | Teoría de números | ⚪ |
+| 96 | [La conjetura inversa de Goldbach de Ostmann](ranking-51-100.md#r96) | 013 | Teoría de números | ⚪ |
+| 97 | [La conjetura débil inhomogénea de Duffin–Schaeffer](ranking-51-100.md#r97) | 022 | Teoría de números | ⚪ |
+| 98 | [La conjetura de las fracciones egipcias cortas de Erdős](ranking-51-100.md#r98) | 025 | Teoría de números | ✅ |
+| 99 | [La conjetura de Stein para transformadas de Hilbert a lo largo de direcciones lipschitzianas](ranking-51-100.md#r99) | 083 | Análisis real y complejo | ⚪ |
+| 100 | [Una cota inferior cúbica permanente–determinante](ranking-51-100.md#r100) | 108 | Informática teórica | ⚪ |
 | 101 | Aproximación de la distancia de edición en tiempo esperado casi lineal | 121 | Informática teórica | ⚪ |
 | 102 | Una aproximación de factor dos para la supercadena común más corta | 128 | Informática teórica | ✅ |
 | 103 | La conjetura cuasilineal de PCP para PPAD | 136 | Informática teórica | ⚪ |
