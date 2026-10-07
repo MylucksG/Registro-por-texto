@@ -77,7 +77,7 @@ El nombre viene de **ASI**, siglas en inglés de *superinteligencia artificial*:
 
 | Sección | Para qué sirve |
 |---|---|
-| [Noticias](https://caminoasi.com/noticias) | Lo que pasa en la IA cada día, de fuentes reales, clasificado por sector |
+| [Noticias](https://caminoasi.com/noticias) | Lo que pasa en la IA cada día, de fuentes reales. Las noticias se filtran y clasifican por sector con [Jev](https://typesafe.ai/), un modelo de TypeSafe AI |
 | [Investigaciones](https://caminoasi.com/investigaciones) | Los artículos científicos y anuncios de los laboratorios más relevantes |
 | [Herramientas](https://caminoasi.com/herramientas) y [Robótica](https://caminoasi.com/robotica) | Herramientas de IA y robots, revisados antes de publicarse |
 | [Ranking de modelos](https://caminoasi.com/ranking) | Qué modelos de IA rinden mejor |
