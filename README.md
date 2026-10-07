@@ -35,6 +35,7 @@ Aquí analizamos descubrimientos hechos por sistemas de inteligencia artificial:
 |---|---|
 | Los 50 descubrimientos más importantes: cuál era el problema y qué resuelve | [Ranking explicado](analysis/ranking.md) |
 | Los 372 resultados ordenados, solo la lista | [Ranking completo](analysis/ranking-completo.md) |
+| Explicaciones cortas de los puestos 51 a 100 | [Ranking 51–100](analysis/ranking-51-100.md) |
 | Qué resultados importan y por qué, en sencillo | [Panorama](analysis/overview.md) |
 | Si algo se puede aplicar, cómo y cuándo | [Aplicaciones](analysis/applications.md) |
 | Hacia dónde va todo esto | [El futuro](analysis/future.md) |
