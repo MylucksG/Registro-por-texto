@@ -10,6 +10,8 @@ Si alguna palabra no te suena, mira el [glosario](../docs/glosario.md).
 
 ## Los resultados más llamativos, en palabras sencillas
 
+Para ver cuál era el problema y qué resuelve cada uno, mira el [ranking](ranking.md).
+
 Elegidos por su posible impacto, dentro o fuera de las matemáticas. "Lean" indica si está comprobado por máquina (✅ todo, 🟡 una parte, ⚪ no visible).
 
 ### Algoritmos e informática
