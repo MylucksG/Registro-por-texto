@@ -33,7 +33,8 @@ Aquí analizamos descubrimientos hechos por sistemas de inteligencia artificial:
 
 | Quiero saber... | Lee |
 |---|---|
-| Los 50 descubrimientos más importantes: cuál era el problema y qué resuelve | [Ranking](analysis/ranking.md) |
+| Los 50 descubrimientos más importantes: cuál era el problema y qué resuelve | [Ranking explicado](analysis/ranking.md) |
+| Los 372 resultados ordenados, solo la lista | [Ranking completo](analysis/ranking-completo.md) |
 | Qué resultados importan y por qué, en sencillo | [Panorama](analysis/overview.md) |
 | Si algo se puede aplicar, cómo y cuándo | [Aplicaciones](analysis/applications.md) |
 | Hacia dónde va todo esto | [El futuro](analysis/future.md) |
@@ -59,6 +60,7 @@ Aquí analizamos descubrimientos hechos por sistemas de inteligencia artificial:
 - [`data/catalogue.json`](data/catalogue.json): el catálogo completo. Los resúmenes (`summary`) están en inglés, como los publicó OpenAI. Los títulos tienen versión en español (`title_es`).
 - [`data/titulos_es.txt`](data/titulos_es.txt): los 372 títulos traducidos. Si una traducción es mejorable, corrígela ahí y vuelve a ejecutar el script.
 - [`scripts/build_catalogue.py`](scripts/build_catalogue.py): regenera `CONTENTS.md` y `data/catalogue.json`.
+- [`scripts/build_ranking.py`](scripts/build_ranking.py): regenera `analysis/ranking-completo.md`. Los 50 primeros están fijados a mano; el resto se ordena por una puntuación explicada en el propio script.
 - Para añadir otro descubrimiento, usa la plantilla de [`discoveries/`](discoveries/README.md).
 
 ```
