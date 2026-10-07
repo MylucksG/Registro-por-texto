@@ -10,56 +10,56 @@ Las **372 familias de resultados** de [openai/math](https://github.com/openai/ma
 
 | # | Descubrimiento | ID | Área | Lean |
 |---:|---|:---:|---|:---:|
-| 1 | **[Multiplicación de matrices con exponente como máximo 9/4](ranking.md)** | 107 | Informática teórica | ✅ |
-| 2 | **[La Conjetura de Unique Games y los umbrales óptimos de aproximación](ranking.md)** | 102 | Informática teórica | 🟡 |
-| 3 | **[La hipótesis de quasi-Riemann](ranking.md)** | 003 | Teoría de números | 🟡 |
-| 4 | **[La fórmula completa de Birch–Swinnerton-Dyer con corango de Selmer cero y uno](ranking.md)** | 002 | Teoría de números | ⚪ |
-| 5 | **[Subset Sum en tiempo O(2^{0,49n})](ranking.md)** | 138 | Informática teórica | ⚪ |
-| 6 | **[Multiplicación de enteros por debajo de n log n](ranking.md)** | 109 | Informática teórica | ⚪ |
-| 7 | **[Suavidad global para Vlasov–Maxwell relativista](ranking.md)** | 362 | Ecuaciones en derivadas parciales | ✅ |
-| 8 | **[La conjetura de la suma de recíprocos de Erdős y cotas cuasipolinómicas de Szemerédi](ranking.md)** | 159 | Combinatoria | ⚪ |
-| 9 | **[Emparejamiento exacto en grafos generales en tiempo casi lineal](ranking.md)** | 120 | Informática teórica | ⚪ |
-| 10 | **[Kakeya en dimensiones tres y cuatro](ranking.md)** | 074 | Análisis real y complejo | ⚪ |
-| 11 | **[El exponente de irracionalidad de π es 2](ranking.md)** | 017 | Teoría de números | ⚪ |
-| 12 | **[Factorización polinómica determinista sobre cuerpos primos](ranking.md)** | 142 | Informática teórica | ⚪ |
-| 13 | **[Grupos no sofic y contraejemplos en anillos de grupo](ranking.md)** | 197 | Álgebra | 🟡 |
-| 14 | **[El plano euclídeo no se puede colorear con cinco colores](ranking.md)** | 158 | Combinatoria | ✅ |
-| 15 | **[Cotas uniformes de ciclos límite en el decimosexto problema de Hilbert](ranking.md)** | 143 | Sistemas dinámicos y teoría ergódica | 🟡 |
-| 16 | **[El grupo F de Thompson no es promediable](ranking.md)** | 248 | Teoría de grupos | ✅ |
-| 17 | **[La conjetura de Cannon](ranking.md)** | 246 | Teoría de grupos | ⚪ |
-| 18 | **[La conjetura de distancias de Falconer](ranking.md)** | 073 | Análisis real y complejo | ✅ |
-| 19 | **[Todos los factores de grupo libre no abelianos son isomorfos](ranking.md)** | 287 | Álgebras de operadores | ⚪ |
-| 20 | **[Computación universal en flujos de Navier–Stokes forzados](ranking.md)** | 376 | Ecuaciones en derivadas parciales | ⚪ |
-| 21 | **[El décimo problema de Hilbert sobre ℚ](ranking.md)** | 004 | Teoría de números | ⚪ |
-| 22 | **[La conjetura racional de Hodge para variedades abelianas CM y productos de superficies K3](ranking.md)** | 032 | Geometría algebraica y compleja | ⚪ |
-| 23 | **[Desaleatorización del espacio logarítmico: L=RL=BPL](ranking.md)** | 103 | Informática teórica | ⚪ |
-| 24 | **[Embeddings L₁ de distorsión acotada para grafos planares y de anchura arbórea acotada](ranking.md)** | 089 | Geometría convexa y métrica | ✅ |
-| 25 | **[Construcción determinista de árboles delgados fuertes](ranking.md)** | 174 | Combinatoria | 🟡 |
-| 26 | **[Desigualdades de profeta para matroides con una muestra frente a un adversario todopoderoso](ranking.md)** | 111 | Informática teórica | ⚪ |
-| 27 | **[Algoritmos cuasipolinómicos para juegos de pago medio, estocásticos y de paridad](ranking.md)** | 104 | Informática teórica | 🟡 |
-| 28 | **[Dureza de colorear grafos tricoloreables](ranking.md)** | 106 | Informática teórica | ✅ |
-| 29 | **[Umbrales de Random-SAT, varianza exacta y computabilidad](ranking.md)** | 235 | Probabilidad y mecánica estadística | ⚪ |
-| 30 | **[Conjetura de las raíces primitivas de Artin: infinitud para toda base](ranking.md)** | 029 | Teoría de números | ⚪ |
-| 31 | **[Irracionalidad de la constante de Catalan](ranking.md)** | 005 | Teoría de números | ⚪ |
-| 32 | **[Las conjeturas de Mahler y el ancho simpléctico](ranking.md)** | 087 | Geometría convexa y métrica | 🟡 |
-| 33 | **[La conjetura logarítmica de Brunn–Minkowski](ranking.md)** | 091 | Geometría convexa y métrica | ✅ |
-| 34 | **[Optimalidad universal de la red triangular](ranking.md)** | 090 | Geometría convexa y métrica | ⚪ |
-| 35 | **[La conjetura de Borsuk falla en dimensión nueve](ranking.md)** | 156 | Combinatoria | ✅ |
-| 36 | **[Contraejemplos a las conjeturas de Hadwiger y de Colin de Verdière](ranking.md)** | 157 | Combinatoria | ⚪ |
-| 37 | **[La conjetura de Ramsey del hipercubo](ranking.md)** | 171 | Combinatoria | ⚪ |
-| 38 | **[La conjetura del segundo vecindario de Seymour](ranking.md)** | 173 | Combinatoria | ✅ |
-| 39 | **[La conjetura del ciclo hamiltoniano de Barnette](ranking.md)** | 180 | Combinatoria | ⚪ |
-| 40 | **[La ley de Bloch y el orden ferromagnético espontáneo](ranking.md)** | 271 | Física matemática | ⚪ |
-| 41 | **[La brecha de Haldane de espín uno](ranking.md)** | 268 | Física matemática | ⚪ |
-| 42 | **[Las conjeturas de ionización y de ionización generalizada](ranking.md)** | 263 | Física matemática | 🟡 |
-| 43 | **[La fórmula de Mézard–Parisi para vidrios de espín diluidos](ranking.md)** | 221 | Probabilidad y mecánica estadística | ⚪ |
-| 44 | **[La conjetura de los puntos calientes para dominios planos simplemente conexos](ranking.md)** | 369 | Ecuaciones en derivadas parciales | ⚪ |
-| 45 | **[La conjetura de De Giorgi en dimensión ocho](ranking.md)** | 375 | Ecuaciones en derivadas parciales | ⚪ |
-| 46 | **[La conjetura de Birkhoff cerca del borde](ranking.md)** | 147 | Sistemas dinámicos y teoría ergódica | ⚪ |
-| 47 | **[Medida de Hausdorff exacta para SLE](ranking.md)** | 230 | Probabilidad y mecánica estadística | ⚪ |
-| 48 | **[La conjetura de Hilbert–Smith en toda dimensión](ranking.md)** | 304 | Topología | ⚪ |
-| 49 | **[La conjetura de uniformización de Yau](ranking.md)** | 338 | Geometría diferencial | ⚪ |
-| 50 | **[La hipótesis de homotopía de Grothendieck](ranking.md)** | 312 | Topología | ✅ |
+| 1 | **[Multiplicación de matrices con exponente como máximo 9/4](ranking.md#r1)** | 107 | Informática teórica | ✅ |
+| 2 | **[La Conjetura de Unique Games y los umbrales óptimos de aproximación](ranking.md#r2)** | 102 | Informática teórica | 🟡 |
+| 3 | **[La hipótesis de quasi-Riemann](ranking.md#r3)** | 003 | Teoría de números | 🟡 |
+| 4 | **[La fórmula completa de Birch–Swinnerton-Dyer con corango de Selmer cero y uno](ranking.md#r4)** | 002 | Teoría de números | ⚪ |
+| 5 | **[Subset Sum en tiempo O(2^{0,49n})](ranking.md#r5)** | 138 | Informática teórica | ⚪ |
+| 6 | **[Multiplicación de enteros por debajo de n log n](ranking.md#r6)** | 109 | Informática teórica | ⚪ |
+| 7 | **[Suavidad global para Vlasov–Maxwell relativista](ranking.md#r7)** | 362 | Ecuaciones en derivadas parciales | ✅ |
+| 8 | **[La conjetura de la suma de recíprocos de Erdős y cotas cuasipolinómicas de Szemerédi](ranking.md#r8)** | 159 | Combinatoria | ⚪ |
+| 9 | **[Emparejamiento exacto en grafos generales en tiempo casi lineal](ranking.md#r9)** | 120 | Informática teórica | ⚪ |
+| 10 | **[Kakeya en dimensiones tres y cuatro](ranking.md#r10)** | 074 | Análisis real y complejo | ⚪ |
+| 11 | **[El exponente de irracionalidad de π es 2](ranking.md#r11)** | 017 | Teoría de números | ⚪ |
+| 12 | **[Factorización polinómica determinista sobre cuerpos primos](ranking.md#r12)** | 142 | Informática teórica | ⚪ |
+| 13 | **[Grupos no sofic y contraejemplos en anillos de grupo](ranking.md#r13)** | 197 | Álgebra | 🟡 |
+| 14 | **[El plano euclídeo no se puede colorear con cinco colores](ranking.md#r14)** | 158 | Combinatoria | ✅ |
+| 15 | **[Cotas uniformes de ciclos límite en el decimosexto problema de Hilbert](ranking.md#r15)** | 143 | Sistemas dinámicos y teoría ergódica | 🟡 |
+| 16 | **[El grupo F de Thompson no es promediable](ranking.md#r16)** | 248 | Teoría de grupos | ✅ |
+| 17 | **[La conjetura de Cannon](ranking.md#r17)** | 246 | Teoría de grupos | ⚪ |
+| 18 | **[La conjetura de distancias de Falconer](ranking.md#r18)** | 073 | Análisis real y complejo | ✅ |
+| 19 | **[Todos los factores de grupo libre no abelianos son isomorfos](ranking.md#r19)** | 287 | Álgebras de operadores | ⚪ |
+| 20 | **[Computación universal en flujos de Navier–Stokes forzados](ranking.md#r20)** | 376 | Ecuaciones en derivadas parciales | ⚪ |
+| 21 | **[El décimo problema de Hilbert sobre ℚ](ranking.md#r21)** | 004 | Teoría de números | ⚪ |
+| 22 | **[La conjetura racional de Hodge para variedades abelianas CM y productos de superficies K3](ranking.md#r22)** | 032 | Geometría algebraica y compleja | ⚪ |
+| 23 | **[Desaleatorización del espacio logarítmico: L=RL=BPL](ranking.md#r23)** | 103 | Informática teórica | ⚪ |
+| 24 | **[Embeddings L₁ de distorsión acotada para grafos planares y de anchura arbórea acotada](ranking.md#r24)** | 089 | Geometría convexa y métrica | ✅ |
+| 25 | **[Construcción determinista de árboles delgados fuertes](ranking.md#r25)** | 174 | Combinatoria | 🟡 |
+| 26 | **[Desigualdades de profeta para matroides con una muestra frente a un adversario todopoderoso](ranking.md#r26)** | 111 | Informática teórica | ⚪ |
+| 27 | **[Algoritmos cuasipolinómicos para juegos de pago medio, estocásticos y de paridad](ranking.md#r27)** | 104 | Informática teórica | 🟡 |
+| 28 | **[Dureza de colorear grafos tricoloreables](ranking.md#r28)** | 106 | Informática teórica | ✅ |
+| 29 | **[Umbrales de Random-SAT, varianza exacta y computabilidad](ranking.md#r29)** | 235 | Probabilidad y mecánica estadística | ⚪ |
+| 30 | **[Conjetura de las raíces primitivas de Artin: infinitud para toda base](ranking.md#r30)** | 029 | Teoría de números | ⚪ |
+| 31 | **[Irracionalidad de la constante de Catalan](ranking.md#r31)** | 005 | Teoría de números | ⚪ |
+| 32 | **[Las conjeturas de Mahler y el ancho simpléctico](ranking.md#r32)** | 087 | Geometría convexa y métrica | 🟡 |
+| 33 | **[La conjetura logarítmica de Brunn–Minkowski](ranking.md#r33)** | 091 | Geometría convexa y métrica | ✅ |
+| 34 | **[Optimalidad universal de la red triangular](ranking.md#r34)** | 090 | Geometría convexa y métrica | ⚪ |
+| 35 | **[La conjetura de Borsuk falla en dimensión nueve](ranking.md#r35)** | 156 | Combinatoria | ✅ |
+| 36 | **[Contraejemplos a las conjeturas de Hadwiger y de Colin de Verdière](ranking.md#r36)** | 157 | Combinatoria | ⚪ |
+| 37 | **[La conjetura de Ramsey del hipercubo](ranking.md#r37)** | 171 | Combinatoria | ⚪ |
+| 38 | **[La conjetura del segundo vecindario de Seymour](ranking.md#r38)** | 173 | Combinatoria | ✅ |
+| 39 | **[La conjetura del ciclo hamiltoniano de Barnette](ranking.md#r39)** | 180 | Combinatoria | ⚪ |
+| 40 | **[La ley de Bloch y el orden ferromagnético espontáneo](ranking.md#r40)** | 271 | Física matemática | ⚪ |
+| 41 | **[La brecha de Haldane de espín uno](ranking.md#r41)** | 268 | Física matemática | ⚪ |
+| 42 | **[Las conjeturas de ionización y de ionización generalizada](ranking.md#r42)** | 263 | Física matemática | 🟡 |
+| 43 | **[La fórmula de Mézard–Parisi para vidrios de espín diluidos](ranking.md#r43)** | 221 | Probabilidad y mecánica estadística | ⚪ |
+| 44 | **[La conjetura de los puntos calientes para dominios planos simplemente conexos](ranking.md#r44)** | 369 | Ecuaciones en derivadas parciales | ⚪ |
+| 45 | **[La conjetura de De Giorgi en dimensión ocho](ranking.md#r45)** | 375 | Ecuaciones en derivadas parciales | ⚪ |
+| 46 | **[La conjetura de Birkhoff cerca del borde](ranking.md#r46)** | 147 | Sistemas dinámicos y teoría ergódica | ⚪ |
+| 47 | **[Medida de Hausdorff exacta para SLE](ranking.md#r47)** | 230 | Probabilidad y mecánica estadística | ⚪ |
+| 48 | **[La conjetura de Hilbert–Smith en toda dimensión](ranking.md#r48)** | 304 | Topología | ⚪ |
+| 49 | **[La conjetura de uniformización de Yau](ranking.md#r49)** | 338 | Geometría diferencial | ⚪ |
+| 50 | **[La hipótesis de homotopía de Grothendieck](ranking.md#r50)** | 312 | Topología | ✅ |
 | | *Del 51 en adelante: orden por puntuación. Del 51 al 100, explicación corta al pulsar el título.* | | | |
 | 51 | [Brechas no acotadas en empaquetado y la conjetura de redondeo entero modificada](ranking-51-100.md#r51) | 118 | Informática teórica | ✅ |
 | 52 | [La conjetura de los juegos 2 a 1 con completitud perfecta](ranking-51-100.md#r52) | 105 | Informática teórica | ✅ |

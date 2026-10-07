@@ -35,6 +35,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 ---
 
+<a id="r1"></a>
 ## 1. Multiplicar matrices más barato (107) ✅
 
 > **En palabras sencillas.** Multiplicar dos tablas grandes de números es lo que hace un ordenador millones de veces por segundo cuando entrena una IA o dibuja un videojuego. Este resultado demuestra que, en teoría, se puede hacer con bastantes menos operaciones de las que se creía posibles.
@@ -49,6 +50,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué el puesto 1.** Multiplicar matrices es la operación central de la IA, los gráficos y la simulación científica, y está comprobado al completo con Lean. Pero no hará más rápido ningún programa: estos métodos solo ganan con matrices de un tamaño que nadie usa. Su valor es saber que la operación es más barata de lo que se creía.
 
+<a id="r2"></a>
 ## 2. La Conjetura de Unique Games (102) 🟡
 
 > **En palabras sencillas.** Hay problemas, como repartir tareas o cortar una red en dos partes, que un ordenador no puede resolver a la perfección en un tiempo razonable. Se usan métodos que dan una respuesta "bastante buena". Este resultado demuestra que esos métodos ya son los mejores posibles: nadie encontrará uno rápido que lo haga mejor.
@@ -63,6 +65,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Cierra una pregunta de dos décadas y dice a los ingenieros dónde dejar de buscar. Está en Lean el artículo principal, pero no todos los de la familia.
 
+<a id="r3"></a>
 ## 3. Los primos son más ordenados de lo que se sabía (003) 🟡
 
 > **En palabras sencillas.** Los números primos (2, 3, 5, 7, 11...) parecen aparecer al azar, pero siguen un patrón escondido. Una famosa hipótesis de 1859 describe ese patrón al detalle, y nadie la ha demostrado. Este resultado demuestra una parte grande de ella: los primos son más ordenados de lo que se podía asegurar.
@@ -77,6 +80,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Es el mayor avance en esta dirección en más de un siglo, y mejora las fórmulas que cuentan primos. El artículo principal está en Lean.
 
+<a id="r4"></a>
 ## 4. Birch–Swinnerton-Dyer en muchos casos (002) ⚪
 
 > **En palabras sencillas.** Las curvas elípticas son unas ecuaciones que protegen tus mensajes de WhatsApp y tus pagos con tarjeta. Una conjetura de 1965 dice cómo contar sus soluciones. Es uno de los siete problemas por los que se ofrece un millón de dólares. Este resultado la demuestra para una gran parte de las curvas.
@@ -91,6 +95,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Sería un paso enorme hacia un Problema del Milenio, pero no tiene comprobación en Lean visible. Es el resultado que más necesita revisión humana.
 
+<a id="r5"></a>
 ## 5. Subset Sum más rápido (138) ⚪
 
 > **En palabras sencillas.** Tienes una lista de números y quieres saber si algunos de ellos suman exactamente una cantidad, por ejemplo, qué compras de un ticket suman 100 euros. Con pocos números es fácil, pero con cientos el tiempo se dispara. Este resultado acelera el mejor método conocido por primera vez desde 1974.
@@ -105,6 +110,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Rompe una barrera histórica, aunque el problema sigue siendo muy lento en la práctica y no afecta a la criptografía.
 
+<a id="r6"></a>
 ## 6. Multiplicar enteros más rápido (109) ⚪
 
 > **En palabras sencillas.** Multiplicar dos números muy largos, de millones de cifras, se usa para calcular decimales de π o en criptografía. Desde 1971 se pensaba que ya teníamos el método más rápido posible. Este resultado demuestra que no era así.
@@ -119,6 +125,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Derriba una conjetura de cincuenta años sobre una operación básica. La mejora es tan pequeña que no tiene uso práctico.
 
+<a id="r7"></a>
 ## 7. Las ecuaciones de los plasmas no explotan (362) ✅
 
 > **En palabras sencillas.** Un plasma es un gas de partículas cargadas: el Sol, los rayos, el interior de un reactor de fusión. Las ecuaciones que lo describen se usan desde hace décadas, pero no se sabía si en algún momento podían "romperse" y dar resultados sin sentido. Este resultado demuestra que no.
@@ -133,6 +140,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Da base sólida a los modelos de fusión y astrofísica, y está comprobado al completo con Lean.
 
+<a id="r8"></a>
 ## 8. Conjetura de Erdős sobre progresiones (159) ⚪
 
 > **En palabras sencillas.** Si eliges un montón de números y el montón es "grande" (en un sentido matemático preciso), ¿siempre habrá dentro cadenas como 3, 7, 11, 15, donde cada número se separa del anterior lo mismo? Erdős apostó que sí hace 50 años. Este resultado le da la razón.
@@ -147,6 +155,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Es uno de los problemas con premio de Erdős más conocidos. Sin Lean visible.
 
+<a id="r9"></a>
 ## 9. Emparejamiento en tiempo casi lineal (120) ⚪
 
 > **En palabras sencillas.** Tienes personas y tareas, y cada persona puede hacer solo algunas tareas. Quieres emparejar al máximo número posible. Se sabe resolver desde 1965, pero el método se vuelve lento con redes grandes. Este resultado lo hace casi tan rápido como leer la lista.
@@ -161,6 +170,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Es el resultado con más opciones de llegar a programas reales: asignación de recursos, rutas y mercados. Sin Lean visible.
 
+<a id="r10"></a>
 ## 10. Kakeya en 3 y 4 dimensiones (074) ⚪
 
 > **En palabras sencillas.** Imagina una aguja que debe girar 180 grados. ¿Cuánto espacio mínimo necesita? En el plano, sorprendentemente casi nada. La pregunta es qué pasa en tres o más dimensiones. Esta conjetura de 1971 dice que el espacio nunca puede ser "pequeño". Este resultado la demuestra en más casos.
@@ -175,6 +185,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Kakeya está conectado con el análisis de Fourier y con las ecuaciones de ondas. Sin Lean visible.
 
+<a id="r11"></a>
 ## 11. π no se aproxima demasiado bien (017) ⚪
 
 > **En palabras sencillas.** Las fracciones 22/7 y 355/113 se parecen mucho a π. ¿Hasta qué punto se puede acercar una fracción a π? Este resultado demuestra que π no es "especialmente fácil" de aproximar: se comporta como un número típico.
@@ -189,6 +200,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Es una pregunta clásica sobre el número más famoso. Sin Lean visible.
 
+<a id="r12"></a>
 ## 12. Factorizar polinomios sin azar (142) ⚪
 
 > **En palabras sencillas.** Descomponer un polinomio en factores, como 6 = 2 × 3 pero con expresiones algebraicas, es una operación básica en los programas de matemáticas y en los códigos que corrigen errores en los CD, los satélites y los QR. Los métodos rápidos conocidos usan el azar. Este resultado da uno que no lo necesita.
@@ -203,6 +215,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Resuelve un problema abierto de décadas en computación algebraica. No tiene nada que ver con factorizar números, que es lo que protege a RSA.
 
+<a id="r13"></a>
 ## 13. Contraejemplos a Kaplansky (197) 🟡
 
 > **En palabras sencillas.** En 1950 un matemático planteó varias "apuestas" sobre unas estructuras algebraicas. Durante 70 años todo el mundo encontró que se cumplían. Este resultado construye ejemplos concretos en los que fallan.
@@ -217,6 +230,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Un contraejemplo cierra una pregunta para siempre. Tres de los cuatro artículos están en Lean; falta el del ejemplo sin torsión.
 
+<a id="r14"></a>
 ## 14. Colorear el plano: cinco colores no bastan (158) ✅
 
 > **En palabras sencillas.** Pinta todos los puntos de una hoja infinita con colores, con una regla: dos puntos a exactamente 1 cm no pueden tener el mismo color. ¿Cuántos colores hacen falta? Desde 1950 se sabe que entre 4 y 7. Este resultado descarta el 5.
@@ -231,6 +245,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Es un problema que cualquiera entiende y que llevaba setenta años atascado. Comprobado al completo con Lean.
 
+<a id="r15"></a>
 ## 15. El decimosexto problema de Hilbert, parte uniforme (143) 🟡
 
 > **En palabras sencillas.** En 1900 Hilbert publicó una lista de 23 problemas para el siglo. El número 16 pregunta cuántas "órbitas cerradas" puede tener un sistema de ecuaciones sencillas en el plano, como las que describen un péndulo o una población de animales. Este resultado demuestra que hay un máximo que solo depende de lo complicadas que sean las ecuaciones.
@@ -245,6 +260,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Es uno de los pocos problemas de Hilbert que seguían abiertos. Está en Lean uno de los dos artículos.
 
+<a id="r16"></a>
 ## 16. El grupo F de Thompson no es promediable (248) ✅
 
 > **En palabras sencillas.** Hay un objeto matemático llamado grupo F de Thompson que se comporta de forma extraña. Desde los años 60 se discute si tiene una propiedad llamada "promediabilidad". Ha habido varias demostraciones en los dos sentidos, todas con errores. Este resultado zanja la cuestión.
@@ -259,6 +275,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Es el problema más famoso de la teoría geométrica de grupos. Comprobado con Lean, lo que importa en un problema con tantas demostraciones fallidas.
 
+<a id="r17"></a>
 ## 17. La conjetura de Cannon (246) ⚪
 
 > **En palabras sencillas.** Hay grupos abstractos cuyo "borde" se parece a una esfera. En 1991 Cannon conjeturó que todos ellos son en realidad las simetrías de un espacio tridimensional curvado. Este resultado lo demuestra.
@@ -273,6 +290,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Conecta dos áreas, grupos y geometría tridimensional, y era el gran problema pendiente tras la conjetura de Poincaré. Sin Lean visible.
 
+<a id="r18"></a>
 ## 18. La conjetura de distancias de Falconer (073) ✅
 
 > **En palabras sencillas.** Si tienes un conjunto de puntos "suficientemente grande", ¿las distancias entre ellos forman también un conjunto grande? Falconer lo conjeturó en 1985. Este resultado lo demuestra en todas las dimensiones.
@@ -287,6 +305,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Problema central del análisis geométrico, comprobado al completo con Lean.
 
+<a id="r19"></a>
 ## 19. Los factores de grupo libre son todos iguales (287) ⚪
 
 > **En palabras sencillas.** En un área del álgebra hay unos objetos, los factores de grupo libre, construidos a partir de 2, 3, 4... piezas. Desde los años 60 nadie sabía si el de 2 piezas y el de 3 son el mismo objeto o distintos. Este resultado dice que son el mismo.
@@ -301,6 +320,7 @@ Cada ficha tiene dos niveles: primero un recuadro **en palabras sencillas**, con
 
 **Por qué este puesto.** Es el problema más conocido de su área, pero sin Lean visible y en un campo donde los errores sutiles son frecuentes.
 
+<a id="r20"></a>
 ## 20. Un fluido puede ser un ordenador (376) ⚪
 
 > **En palabras sencillas.** Las ecuaciones de Navier–Stokes describen el agua, el aire y la sangre. Este resultado demuestra que un fluido, empujado de la forma adecuada, puede ejecutar cualquier programa de ordenador.
@@ -356,6 +376,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 ---
 
+<a id="r21"></a>
 ## 21. El décimo problema de Hilbert para fracciones (004) ⚪
 
 > **En palabras sencillas.** Hilbert pidió en 1900 un método automático que diga si una ecuación con números enteros tiene solución. En 1970 se demostró que ese método no existe para soluciones enteras. Quedaba la pregunta para soluciones con fracciones, que llevaba 50 años abierta.
@@ -370,6 +391,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Es un resultado histórico en lógica, pero solo dice que algo es imposible. No da ninguna herramienta nueva, y las ecuaciones que importan en la práctica ya se atacan caso por caso.
 
+<a id="r22"></a>
 ## 22. La conjetura de Hodge en un caso importante (032) ⚪
 
 > **En palabras sencillas.** La conjetura de Hodge es otro de los siete problemas del Milenio. Pregunta si ciertas formas abstractas dentro de un espacio geométrico vienen siempre de piezas "reales" (ecuaciones). Este resultado lo demuestra para una familia concreta de espacios.
@@ -384,6 +406,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Un paso real hacia un Problema del Milenio, pero en un caso particular y sin verificación formal. Afecta a un área pequeña de la geometría algebraica.
 
+<a id="r23"></a>
 ## 23. El azar no ayuda a los programas con poca memoria (103) ⚪
 
 > **En palabras sencillas.** Algunos programas usan tirar una moneda para resolver problemas más rápido. La pregunta era si un programa con muy poca memoria gana algo con esa moneda. Este resultado dice que no: todo lo que se hace con azar y poca memoria se puede hacer sin azar con la misma memoria.
@@ -398,6 +421,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Es uno de los grandes problemas de la complejidad computacional, pero sus consecuencias son teóricas. No está en Lean.
 
+<a id="r24"></a>
 ## 24. Mapas que se pueden aplanar sin deformar (089) ✅
 
 > **En palabras sencillas.** Un mapa de carreteras tiene distancias complicadas. Sería útil representarlas con coordenadas sencillas, como una cuadrícula, sin que las distancias se deformen mucho. Este resultado demuestra que para mapas "planos" siempre se puede, con una deformación limitada.
@@ -412,6 +436,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Tiene uso potencial en algoritmos de grafos y está comprobado al completo con Lean, pero es una pieza teórica que todavía nadie ha llevado a código.
 
+<a id="r25"></a>
 ## 25. Esqueletos de redes que no sobrecargan ningún tramo (174) 🟡
 
 > **En palabras sencillas.** Imagina una red eléctrica muy conectada. Quieres quedarte con un "esqueleto" mínimo que llegue a todos los puntos sin cargar demasiado ninguna zona. Este resultado demuestra que ese esqueleto siempre existe y da una receta para encontrarlo.
@@ -426,6 +451,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Es útil en teoría de redes, pero el camino hasta un programa real es largo y la parte algorítmica no está verificada.
 
+<a id="r26"></a>
 ## 26. Decidir sin conocer el futuro con una sola pista (111) ⚪
 
 > **En palabras sencillas.** Vendes algo y los compradores llegan uno a uno; cada vez debes aceptar o rechazar sin saber qué vendrá después. Este resultado da una regla que, con una sola muestra previa de cada comprador, consigue una fracción fija de lo que ganaría alguien que viera el futuro.
@@ -440,6 +466,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Es relevante para la teoría de mercados y subastas, pero su efecto depende de que alguien lo implemente y mida.
 
+<a id="r27"></a>
 ## 27. Juegos de estrategia que se resuelven rápido (104) 🟡
 
 > **En palabras sencillas.** Hay juegos abstractos de dos jugadores que se usan para comprobar que un programa de control (un semáforo, un avión) hace siempre lo correcto. Resolverlos era lento. Este resultado da un método casi rápido.
@@ -454,6 +481,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Útil en verificación formal, pero es un avance incremental sobre un resultado de 2017 y el salto a las herramientas industriales no es inmediato.
 
+<a id="r28"></a>
 ## 28. Colorear mapas de tres colores es difícil incluso con muchos (106) ✅
 
 > **En palabras sencillas.** Hay redes que se pueden pintar con tres colores sin que dos vecinos coincidan, pero encontrar esa pintura es difícil. ¿Y si te permiten usar 10 colores? ¿O 100? Este resultado demuestra que sigue siendo igual de difícil con cualquier número fijo de colores.
@@ -468,6 +496,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Pulcro y verificado, pero solo cierra una pregunta de dureza. No cambia ningún algoritmo que se use hoy.
 
+<a id="r29"></a>
 ## 29. Dónde está el límite de los problemas aleatorios (235) ⚪
 
 > **En palabras sencillas.** Si generas al azar un rompecabezas lógico con muchas piezas, hay un punto exacto en el que pasa de tener solución a no tenerla. Los físicos lo predijeron hace 25 años, pero no se había demostrado que ese punto exista para todos los tamaños.
@@ -482,6 +511,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Resultado central en la teoría de la satisfacibilidad aleatoria, pero su efecto en los resolvedores prácticos es nulo a corto plazo.
 
+<a id="r30"></a>
 ## 30. Las raíces primitivas de Artin (029) ⚪
 
 > **En palabras sencillas.** Si tomas el número 2 y haces 2, 4, 8, 16... dividiendo entre un primo, ¿recorres todos los restos posibles? Cuando sí, 2 es una "raíz primitiva" de ese primo. Artin conjeturó en 1927 que para 2 (y casi cualquier base) hay infinitos primos así. Este resultado lo demuestra.
@@ -496,6 +526,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Un clásico de la teoría de números resuelto, pero sin Lean y sin consecuencias fuera de ella.
 
+<a id="r31"></a>
 ## 31. La constante de Catalan es irracional (005) ⚪
 
 > **En palabras sencillas.** Hay un número, llamado constante de Catalan, que aparece en muchas fórmulas (vale 0,9159...). Desde hace 150 años se sospecha que no se puede escribir como fracción, pero nadie lo había demostrado.
@@ -510,6 +541,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Pregunta famosa, respuesta sin consecuencias prácticas, y sin Lean.
 
+<a id="r32"></a>
 ## 32. La forma más "pequeña" posible (conjeturas de Mahler) (087) 🟡
 
 > **En palabras sencillas.** Toma una figura convexa y su "figura dual". El producto de sus áreas tiene un mínimo. Mahler conjeturó en 1939 qué figuras lo alcanzan: en el plano, el cuadrado. En dimensiones altas nadie lo sabía.
@@ -524,6 +556,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Problema clásico de la geometría convexa cerrado, pero su impacto queda dentro de esa área.
 
+<a id="r33"></a>
 ## 33. Una desigualdad sobre mezclar formas (Brunn–Minkowski logarítmica) (091) ✅
 
 > **En palabras sencillas.** Si mezclas dos figuras, el área de la mezcla cumple una desigualdad clásica. En 2012 se propuso una versión más fuerte para figuras simétricas. Este resultado la demuestra.
@@ -538,6 +571,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Resultado limpio y verificado que ordena una parte de la geometría convexa, sin salir de ella.
 
+<a id="r34"></a>
 ## 34. Por qué los panales son hexagonales (090) ⚪
 
 > **En palabras sencillas.** Si colocas partículas que se repelen en una mesa, ¿cómo se ordenan para gastar la menor energía? La intuición dice que en una red triangular, como un panal. Este resultado lo demuestra para una familia muy amplia de fuerzas.
@@ -552,6 +586,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Resultado elegante de física matemática, sin Lean y con efecto solo dentro de su campo.
 
+<a id="r35"></a>
 ## 35. La conjetura de Borsuk falla antes de lo que se creía (156) ✅
 
 > **En palabras sencillas.** Borsuk preguntó en 1933 si cualquier figura en n dimensiones se puede partir en n+1 trozos más pequeños. Es falso en dimensiones altas (se sabe desde 1993). La pregunta era desde qué dimensión falla.
@@ -566,6 +601,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Reduce mucho la dimensión mínima de fallo, pero sigue siendo un problema de geometría combinatoria pura.
 
+<a id="r36"></a>
 ## 36. Dos conjeturas sobre colorear redes son falsas (157) ⚪
 
 > **En palabras sencillas.** La conjetura de Hadwiger, de 1943, es uno de los problemas más famosos sobre cómo colorear redes. Generaliza el teorema de los cuatro colores. Este resultado construye redes que la incumplen, incluso en una versión relajada.
@@ -580,6 +616,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Un terremoto en teoría de grafos, pero sin verificación formal y sin consecuencias prácticas.
 
+<a id="r37"></a>
 ## 37. Cuántos amigos hacen falta para garantizar un cubo (171) ⚪
 
 > **En palabras sencillas.** En cualquier grupo grande de personas, si pintas cada amistad de rojo o azul, siempre aparece algún patrón de un solo color. Erdős y Burr preguntaron cuánta gente hace falta para garantizar un "cubo" de n dimensiones. Este resultado da la respuesta exacta en orden de magnitud.
@@ -594,6 +631,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Problema clásico resuelto, dentro de un área sin aplicaciones directas.
 
+<a id="r38"></a>
 ## 38. La conjetura del segundo vecindario de Seymour (173) ✅
 
 > **En palabras sencillas.** En una red donde cada enlace tiene sentido único (como seguir a alguien en una red social), Seymour conjeturó que siempre hay alguien con al menos tantos "amigos de amigos" como amigos directos. Este resultado lo demuestra.
@@ -608,6 +646,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Pregunta famosa y verificada, pero de teoría de grafos pura.
 
+<a id="r39"></a>
 ## 39. La conjetura de Barnette sobre recorridos (180) ⚪
 
 > **En palabras sencillas.** Hay mapas con una estructura concreta (cada cruce une tres calles, se puede pintar con dos colores, y está bien conectado). Barnette conjeturó en 1969 que en todos ellos existe un recorrido que pasa por cada cruce una sola vez y vuelve al inicio.
@@ -622,6 +661,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Pregunta clásica de la teoría de grafos, sin verificación formal y sin aplicación.
 
+<a id="r40"></a>
 ## 40. Por qué los imanes pierden fuerza al calentarse (ley de Bloch) (271) ⚪
 
 > **En palabras sencillas.** Un imán pierde magnetismo al calentarse, y Bloch predijo en 1930 exactamente cómo: proporcional a la temperatura elevada a 3/2. Los experimentos lo confirman desde hace décadas, pero no había demostración matemática a partir de las ecuaciones cuánticas.
@@ -636,6 +676,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Cierra un problema fundamental de la física matemática, pero sin efecto fuera de ella.
 
+<a id="r41"></a>
 ## 41. La brecha de Haldane (268) ⚪
 
 > **En palabras sencillas.** Haldane predijo en 1983 que una cadena de imanes cuánticos de cierto tipo tiene un "salto de energía" que no desaparece por larga que sea la cadena. Le dieron el Nobel en 2016 en parte por eso. Faltaba la demostración matemática.
@@ -650,6 +691,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Confirma una predicción con Nobel, pero no abre ninguna tecnología nueva a corto plazo.
 
+<a id="r42"></a>
 ## 42. Cuántos electrones puede sujetar un átomo (263) 🟡
 
 > **En palabras sencillas.** Un átomo con carga Z puede atrapar electrones de más y convertirse en un ion negativo. ¿Cuántos como máximo? Los experimentos dicen que uno o dos más que Z. La matemática solo podía demostrar que menos de 2Z. Este resultado acerca la teoría a la realidad.
@@ -664,6 +706,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Importante en física matemática, pero la química ya operaba con el resultado correcto.
 
+<a id="r43"></a>
 ## 43. La fórmula de los vidrios de espín diluidos (221) ⚪
 
 > **En palabras sencillas.** Los vidrios de espín son materiales magnéticos desordenados que sirven de modelo para redes neuronales y problemas de optimización. En 1987 dos físicos propusieron una fórmula para su energía. Este resultado la demuestra en una familia de modelos.
@@ -678,6 +721,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Avance notable en mecánica estadística rigurosa, con alcance limitado a esa comunidad.
 
+<a id="r44"></a>
 ## 44. Dónde está el punto más caliente de una placa (369) ⚪
 
 > **En palabras sencillas.** Calienta una placa de metal de forma irregular y déjala enfriar. Con el tiempo, el punto más caliente y el más frío se desplazan hacia el borde. Rauch conjeturó en 1974 que siempre acaban en el borde. Es falso para placas con agujeros; este resultado demuestra que es cierto para placas sin agujeros.
@@ -692,6 +736,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Problema clásico resuelto dentro del análisis, sin repercusión fuera.
 
+<a id="r45"></a>
 ## 45. La conjetura de De Giorgi en su última dimensión (375) ⚪
 
 > **En palabras sencillas.** Cuando dos materiales se separan (agua y aceite), la frontera entre ellos tiende a ser plana. De Giorgi conjeturó en 1978 que, en un modelo matemático de ese fenómeno, la frontera es plana en dimensiones hasta 8. Se demostró hasta la 7; faltaba la 8.
@@ -706,6 +751,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Cierra un problema de 45 años, pero su efecto queda dentro del análisis.
 
+<a id="r46"></a>
 ## 46. La conjetura de Birkhoff sobre mesas de billar (147) ⚪
 
 > **En palabras sencillas.** Imagina una mesa de billar ovalada. En una elipse perfecta, las bolas siguen trayectorias muy ordenadas. Birkhoff conjeturó que la elipse es la única forma con ese orden. Este resultado lo demuestra cuando el orden se da cerca del borde.
@@ -720,6 +766,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Resultado profundo en dinámica, de interés exclusivamente matemático.
 
+<a id="r47"></a>
 ## 47. Cuánto "mide" una curva aleatoria (SLE) (230) ⚪
 
 > **En palabras sencillas.** Las curvas SLE describen fronteras aleatorias que aparecen en física: la orilla de una mancha que crece, la frontera entre dos fases. Schramm preguntó en 2000 cómo medir su longitud de forma natural. Este resultado da la respuesta exacta.
@@ -734,6 +781,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Avance importante en probabilidad, dentro de un área muy especializada.
 
+<a id="r48"></a>
 ## 48. La conjetura de Hilbert–Smith (304) ⚪
 
 > **En palabras sencillas.** El quinto problema de Hilbert preguntaba si ciertos grupos de simetrías son siempre "suaves". Se resolvió en 1952. Quedaba una versión más fuerte, sobre simetrías de espacios curvados: Hilbert–Smith. Este resultado la demuestra en todas las dimensiones.
@@ -748,6 +796,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Pieza central de la teoría de grupos de transformaciones, con interés puramente teórico.
 
+<a id="r49"></a>
 ## 49. La conjetura de uniformización de Yau (338) ⚪
 
 > **En palabras sencillas.** En el plano hay un teorema famoso: cualquier superficie "simple" se puede aplanar. Yau conjeturó en 1974 una versión en muchas dimensiones: si un espacio es curvado positivamente de cierta forma y no se cierra sobre sí mismo, es en el fondo el espacio plano. Este resultado lo demuestra.
@@ -762,6 +811,7 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 **Por qué este puesto.** Un problema clásico de geometría compleja, cerrado solo para esa comunidad.
 
+<a id="r50"></a>
 ## 50. La hipótesis de homotopía de Grothendieck (312) ✅
 
 > **En palabras sencillas.** Grothendieck propuso en 1983 que ciertas estructuras algebraicas muy abstractas (los ∞-grupoides) capturan toda la información de las formas geométricas "hasta deformación". Es una idea central en la matemática moderna, y en una de sus versiones seguía sin demostración.

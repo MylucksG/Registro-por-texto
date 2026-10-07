@@ -99,7 +99,7 @@ lines = [
 for n, f in enumerate(ordered, 1):
     title = f["title_es"].replace("|", "\\|")
     if n <= 50:
-        title = f"**[{title}](ranking.md)**"
+        title = f"**[{title}](ranking.md#r{n})**"
     elif n <= 100:
         title = f"[{title}](ranking-51-100.md#r{n})"
     lines.append(f"| {n} | {title} | {f['id']} | {f['discipline_es']} | {BADGE[f['lean']]} |")
