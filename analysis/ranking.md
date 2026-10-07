@@ -1,5 +1,7 @@
 # Ranking de los descubrimientos
 
+¿Solo quieres la lista? Las 372 familias ordenadas, sin explicaciones, están en el [ranking completo](ranking-completo.md).
+
 Los 50 resultados más importantes de `openai/math`, ordenados por su impacto si se confirman. Los 20 primeros pueden tener efecto fuera de las matemáticas; del 21 al 50 son importantes para los matemáticos, pero con poco impacto fuera por ahora. Para cada uno: cuál era el problema, qué resuelve y cuánto está comprobado.
 
 **Cómo se hizo el ranking.** Se puntúa cada resultado por tres cosas: cuánto tiempo llevaba abierto el problema, cuánta gente fuera de su área se ve afectada, y si está comprobado con Lean (✅ todo, 🟡 una parte, ⚪ no visible). El orden es nuestra opinión, no la de OpenAI. Las descripciones salen de los resúmenes publicados en `openai/math`, no de leer los artículos completos. Ningún resultado ha pasado todavía por la revisión de otros matemáticos.
@@ -778,4 +780,4 @@ Los 30 siguientes son resultados que los matemáticos consideran importantes y q
 
 ## Lo que queda fuera
 
-Hay otras 322 familias. Muchas son importantes en su área pero tienen aún menos efecto fuera de ella. La lista completa está en [`CONTENTS.md`](../CONTENTS.md).
+Hay otras 322 familias. Muchas son importantes en su área pero tienen aún menos efecto fuera de ella. Están ordenadas, del puesto 51 al 372, en el [ranking completo](ranking-completo.md).
