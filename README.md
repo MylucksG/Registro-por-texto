@@ -8,7 +8,7 @@ Aquí analizamos descubrimientos hechos por sistemas de inteligencia artificial:
 
 1. **¿Qué es Lean?** Es la herramienta que comprueba si una demostración es correcta. Léelo primero: [¿Qué es Lean?](docs/que-es-lean.md)
 2. **¿Alguna palabra no te suena?** Mira el [glosario](docs/glosario.md).
-3. **Elige un descubrimiento** de la lista de abajo, o ve directo al [ranking de los 20 más importantes](analysis/ranking.md).
+3. **Elige un descubrimiento** de la lista de abajo, o ve directo al [ranking de los 50 más importantes](analysis/ranking.md).
 4. **¿Quieres el panorama completo de la IA?** Este repositorio es parte de [CaminoASI](#caminoasi-el-proyecto-del-que-forma-parte-este-repositorio).
 
 ## Descubrimientos analizados
@@ -33,7 +33,7 @@ Aquí analizamos descubrimientos hechos por sistemas de inteligencia artificial:
 
 | Quiero saber... | Lee |
 |---|---|
-| Los 20 descubrimientos más importantes: cuál era el problema y qué resuelve | [Ranking](analysis/ranking.md) |
+| Los 50 descubrimientos más importantes: cuál era el problema y qué resuelve | [Ranking](analysis/ranking.md) |
 | Qué resultados importan y por qué, en sencillo | [Panorama](analysis/overview.md) |
 | Si algo se puede aplicar, cómo y cuándo | [Aplicaciones](analysis/applications.md) |
 | Hacia dónde va todo esto | [El futuro](analysis/future.md) |
